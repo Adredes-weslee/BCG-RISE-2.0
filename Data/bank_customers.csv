@@ -1,0 +1,1001 @@
+Customer No,Customer Nationality,Customer Age,Account Opening Date,DC Spends,SALARY_FLAG,DR_FLAG,Bill Payment,CC Spends,Monthly Average Balance
+353446,INDIA,67,17/08/2017,Active,No Salary,No DR,No Bill,No CC,1820.582258
+99061,PHILIPPINES,71,13/11/2020,Inactive,Salary with Bank,No DR,Active Bill,No CC,94.0283871
+344207,GREECE,56,8/11/2018,Inactive,No Salary,Inactive DR,Inactive Bill,Inactive CC,5020.71
+496773,GHANA,40,16/07/2019,Active,Salary with Bank,Active DR,No Bill,Active CC,0
+39530,PHILIPPINES,57,25/11/2017,Active,No Salary,Inactive DR,Active Bill,No CC,196.2148387
+68441,PHILIPPINES,32,29/09/2017,No Spends,No Salary,No DR,Active Bill,Active CC,0
+436577,INDIA,21,28/07/2020,Active,Salary with Bank,No DR,Inactive Bill,Inactive CC,11.91612903
+55654,PHILIPPINES,77,20/07/2019,No Spends,Salary with Bank,No DR,Active Bill,Inactive CC,0
+264081,INDIA,59,26/10/2017,Active,Salary with Bank,No DR,Inactive Bill,No CC,2983.473871
+29391,INDIA,36,4/02/2021,No Spends,Salary with Bank,Inactive DR,No Bill,No CC,2.55
+451809,INDIA,61,19/04/2021,Inactive,No Salary,No DR,Active Bill,No CC,0
+317557,PHILIPPINES,40,28/06/2020,No Spends,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,8808.169355
+209206,PHILIPPINES,75,30/06/2021,Active,No Salary,No DR,Active Bill,Inactive CC,2.44
+412911,SRI LANKA,75,16/08/2017,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,16393.3929
+293946,INDIA,72,13/09/2021,Inactive,Salary with Other Bank,Active DR,Inactive Bill,No CC,0
+3385,INDIA,53,11/06/2021,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Active CC,4690.892581
+219231,SRI LANKA,21,27/12/2020,No Spends,Salary with Other Bank,No DR,Inactive Bill,Active CC,4655.13871
+174076,PHILIPPINES,40,23/12/2017,Active,No Salary,No DR,Inactive Bill,Inactive CC,300.3367742
+90579,INDIA,39,14/11/2021,Inactive,Salary with Bank,Inactive DR,Inactive Bill,No CC,44.29129032
+296112,INDIA,23,17/02/2020,Inactive,Salary with Bank,No DR,No Bill,Inactive CC,0
+456405,INDIA,57,21/06/2019,Active,No Salary,No DR,No Bill,Active CC,23.08193548
+368152,INDIA,32,18/05/2019,Inactive,Salary with Bank,Active DR,No Bill,No CC,1386.592581
+432315,LEBANON,68,25/04/2021,Inactive,Salary with Bank,Inactive DR,No Bill,Active CC,0
+342997,PAKISTAN,70,17/06/2020,Inactive,Salary with Bank,Inactive DR,Inactive Bill,No CC,18.76903226
+335812,INDIA,43,12/08/2018,No Spends,Salary with Bank,Inactive DR,No Bill,Inactive CC,0
+291562,INDIA,65,30/12/2018,Inactive,Salary with Bank,Inactive DR,Active Bill,Inactive CC,398.2722581
+163302,NEPAL,75,2/10/2019,No Spends,Salary with Bank,No DR,Active Bill,Inactive CC,0.430322581
+231001,BANGLADESH,63,7/01/2021,Active,Salary with Bank,Inactive DR,No Bill,Active CC,0
+397814,PHILIPPINES,71,26/02/2018,Inactive,Salary with Other Bank,Inactive DR,No Bill,No CC,-0.17
+494195,NEPAL,40,22/12/2021,Active,Salary with Other Bank,Inactive DR,No Bill,No CC,0
+416582,PHILIPPINES,46,2/03/2021,No Spends,Salary with Bank,Active DR,Active Bill,Active CC,0
+371041,SRI LANKA,51,23/08/2019,Active,No Salary,No DR,Inactive Bill,Active CC,2882.623548
+397059,INDIA,34,7/07/2017,Active,Salary with Other Bank,No DR,No Bill,Active CC,213.3658065
+60113,SUDAN,51,30/04/2018,Inactive,Salary with Bank,Active DR,No Bill,Active CC,3767.435806
+299472,UNITED ARAB EMIRATES,71,25/07/2017,Inactive,Salary with Bank,No DR,No Bill,Active CC,0
+74318,SUDAN,30,19/09/2021,No Spends,No Salary,Inactive DR,Inactive Bill,Inactive CC,0.725806452
+184983,PHILIPPINES,60,20/01/2022,Inactive,Salary with Bank,Inactive DR,Inactive Bill,No CC,-27.5
+48332,PAKISTAN,77,13/08/2018,Active,Salary with Bank,No DR,No Bill,Inactive CC,0
+81225,UNITED ARAB EMIRATES,46,6/09/2017,No Spends,No Salary,Inactive DR,No Bill,Inactive CC,0.9
+453253,INDIA,28,25/05/2017,No Spends,No Salary,No DR,Inactive Bill,Active CC,9341.599677
+312990,PHILIPPINES,65,12/10/2020,Active,No Salary,Active DR,Inactive Bill,Active CC,429.6745161
+354842,PHILIPPINES,67,8/05/2020,Active,No Salary,Inactive DR,Active Bill,Active CC,38.99741935
+82681,PAKISTAN,52,7/06/2017,Inactive,No Salary,No DR,No Bill,No CC,0
+134426,PHILIPPINES,72,9/04/2021,No Spends,Salary with Bank,No DR,No Bill,No CC,0
+327464,INDIA,69,29/03/2018,Inactive,No Salary,Active DR,Active Bill,Inactive CC,13298.23387
+452829,PHILIPPINES,74,1/06/2019,Active,Salary with Bank,Inactive DR,No Bill,No CC,0
+473882,INDIA,63,9/01/2019,Active,No Salary,Active DR,No Bill,Inactive CC,568.1354839
+27111,PHILIPPINES,22,22/09/2018,Active,Salary with Bank,No DR,Inactive Bill,Inactive CC,15.93
+417583,UNITED ARAB EMIRATES,68,15/02/2021,Inactive,Salary with Bank,Active DR,Active Bill,No CC,3.5
+137934,INDIA,34,26/08/2019,Inactive,Salary with Bank,No DR,Active Bill,No CC,14566.29871
+25801,INDIA,72,10/06/2020,No Spends,No Salary,Active DR,Inactive Bill,Inactive CC,2880.143226
+380815,PHILIPPINES,64,15/03/2022,Active,No Salary,Active DR,Active Bill,No CC,0
+258721,INDIA,68,8/04/2017,Inactive,No Salary,No DR,Inactive Bill,Inactive CC,0
+161576,INDIA,43,15/09/2021,Active,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,2312.226774
+147101,ZIMBABWE,25,1/10/2018,No Spends,No Salary,Inactive DR,Active Bill,Inactive CC,276.2690323
+23601,UNITED ARAB EMIRATES,23,7/04/2019,Inactive,No Salary,Active DR,Inactive Bill,Active CC,21.94
+198538,SOUTH AFRICA,52,27/08/2017,Inactive,Salary with Bank,Active DR,Inactive Bill,No CC,2.520322581
+318242,LEBANON,23,24/05/2021,No Spends,No Salary,Active DR,No Bill,Active CC,20547.04484
+157090,PAKISTAN,76,8/11/2021,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,22602.35258
+476263,INDIA,65,16/02/2019,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,372334.5035
+272963,PAKISTAN,42,28/09/2019,No Spends,No Salary,No DR,Active Bill,Inactive CC,2141.246452
+385538,INDIA,70,4/01/2020,No Spends,No Salary,Inactive DR,No Bill,No CC,2621.632581
+168849,PHILIPPINES,48,4/10/2017,No Spends,Salary with Other Bank,No DR,Inactive Bill,Active CC,0
+149567,INDIA,51,24/03/2017,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,0.5
+215939,INDIA,59,19/08/2020,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,0
+4241,PHILIPPINES,65,26/07/2017,Active,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,1683.273226
+270655,UNITED ARAB EMIRATES,25,27/10/2021,Active,Salary with Bank,Active DR,No Bill,Inactive CC,1.99
+89501,PHILIPPINES,55,27/02/2017,Inactive,Salary with Other Bank,Inactive DR,Active Bill,No CC,4.857419355
+190425,INDIA,59,19/10/2020,Active,Salary with Other Bank,Active DR,Active Bill,Active CC,892.86
+131571,INDIA,63,1/02/2020,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,860.386129
+22129,LATVIA,73,15/07/2017,Active,Salary with Other Bank,No DR,Active Bill,No CC,280.17
+84818,PAKISTAN,43,4/11/2019,Active,Salary with Bank,Active DR,No Bill,No CC,0
+28563,PAKISTAN,35,5/01/2019,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,211.7858065
+320078,EGYPT,73,6/05/2017,Inactive,No Salary,Active DR,No Bill,Inactive CC,1261.799032
+334881,INDIA,76,23/06/2019,Active,No Salary,Inactive DR,Active Bill,No CC,2639.951935
+146555,INDIA,68,16/03/2020,Active,Salary with Other Bank,Active DR,Active Bill,Inactive CC,2489.850323
+224147,PHILIPPINES,74,8/06/2020,Active,Salary with Other Bank,No DR,Inactive Bill,Active CC,1.340322581
+398627,TUNISIA,46,16/04/2017,Active,Salary with Bank,Active DR,No Bill,Inactive CC,0
+30091,PAKISTAN,49,3/01/2022,Inactive,Salary with Bank,No DR,Inactive Bill,No CC,0
+435426,INDIA,41,12/02/2018,Inactive,Salary with Other Bank,Inactive DR,Active Bill,Active CC,1228.314194
+209215,UNITED ARAB EMIRATES,35,1/07/2021,Active,Salary with Other Bank,No DR,No Bill,Inactive CC,0.6
+249098,PHILIPPINES,56,28/10/2021,No Spends,No Salary,Inactive DR,No Bill,Inactive CC,0
+456434,PHILIPPINES,25,5/03/2022,No Spends,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,0
+498664,SRI LANKA,24,14/12/2020,No Spends,Salary with Bank,Active DR,Inactive Bill,Active CC,275.7019355
+55427,INDIA,37,1/04/2018,Active,Salary with Other Bank,No DR,No Bill,Inactive CC,0
+347442,INDIA,71,24/07/2017,Inactive,No Salary,Active DR,Active Bill,No CC,37.63806452
+354571,PAKISTAN,70,1/07/2021,No Spends,Salary with Other Bank,Active DR,Active Bill,Inactive CC,0
+475326,INDIA,35,11/02/2020,Inactive,Salary with Bank,Active DR,Active Bill,Active CC,728.8587097
+109235,SYRIA,43,22/04/2020,Inactive,Salary with Bank,Active DR,Active Bill,Active CC,6.482580645
+195570,EGYPT,44,19/11/2020,Active,Salary with Bank,Active DR,Inactive Bill,Inactive CC,0
+212605,INDIA,42,2/04/2017,Active,Salary with Other Bank,No DR,Active Bill,Inactive CC,0
+170923,INDIA,69,11/11/2021,No Spends,No Salary,Active DR,No Bill,Inactive CC,4669.244839
+341083,PHILIPPINES,64,23/03/2021,Active,Salary with Other Bank,Inactive DR,No Bill,Active CC,691.0490323
+82527,INDIA,69,23/09/2017,Inactive,Salary with Bank,No DR,Active Bill,No CC,6.087741935
+468563,INDIA,31,27/08/2021,Active,Salary with Other Bank,Inactive DR,No Bill,Active CC,0
+254979,PAKISTAN,48,23/05/2017,No Spends,Salary with Bank,Active DR,Active Bill,Inactive CC,0
+321834,BANGLADESH,22,14/12/2021,Active,No Salary,No DR,No Bill,Active CC,0
+148978,PHILIPPINES,36,9/06/2021,Active,Salary with Bank,No DR,Inactive Bill,Active CC,700.423871
+3319,NEPAL,21,13/04/2018,No Spends,Salary with Other Bank,Inactive DR,No Bill,Active CC,4.79
+4777,INDIA,23,5/08/2021,Inactive,No Salary,No DR,Active Bill,Inactive CC,23332.75484
+126992,NEPAL,21,20/04/2018,No Spends,Salary with Other Bank,Inactive DR,No Bill,No CC,37.50451613
+242434,BANGLADESH,65,3/09/2020,Active,Salary with Bank,No DR,Active Bill,No CC,0
+406897,BANGLADESH,70,19/02/2022,Active,No Salary,Inactive DR,Active Bill,Active CC,2.493548387
+349216,UNITED ARAB EMIRATES,73,24/01/2020,Active,No Salary,Active DR,Inactive Bill,Active CC,79.79129032
+319599,PHILIPPINES,46,1/03/2019,Inactive,Salary with Bank,Active DR,Inactive Bill,Active CC,0
+199384,INDIA,29,29/09/2019,Inactive,No Salary,Active DR,Inactive Bill,No CC,0
+25895,UNITED ARAB EMIRATES,51,17/02/2019,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,2.55
+492521,PHILIPPINES,46,20/02/2017,Inactive,No Salary,Inactive DR,Inactive Bill,Active CC,909.0003226
+39282,INDIA,37,9/08/2021,Active,Salary with Bank,Active DR,Active Bill,Inactive CC,243.6896774
+377549,PHILIPPINES,25,7/06/2021,Inactive,Salary with Other Bank,No DR,Inactive Bill,No CC,4395.570968
+97800,UNITED ARAB EMIRATES,60,1/05/2020,Active,No Salary,No DR,Inactive Bill,Inactive CC,312.3777419
+97164,SRI LANKA,27,2/05/2021,Active,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,0
+85284,IRAQ,49,30/11/2018,No Spends,Salary with Other Bank,Active DR,Active Bill,No CC,1.616129032
+9855,INDIA,40,5/12/2021,Inactive,Salary with Bank,Active DR,Inactive Bill,No CC,4233.40871
+152922,UNITED ARAB EMIRATES,65,2/04/2020,No Spends,No Salary,Active DR,Active Bill,Inactive CC,29.5383871
+462930,PHILIPPINES,38,25/03/2020,No Spends,No Salary,Active DR,No Bill,No CC,142.3941935
+320132,INDIA,61,30/09/2021,Active,No Salary,No DR,Active Bill,Inactive CC,0
+299153,PHILIPPINES,46,29/12/2019,Inactive,Salary with Bank,No DR,Active Bill,No CC,22.38935484
+309580,PHILIPPINES,70,27/05/2017,Inactive,No Salary,No DR,Inactive Bill,Active CC,63.33032258
+440748,PHILIPPINES,74,19/06/2017,No Spends,Salary with Bank,Inactive DR,Active Bill,Active CC,0
+451674,INDIA,50,8/04/2021,Active,Salary with Other Bank,No DR,Active Bill,No CC,0.475806452
+173310,INDIA,49,19/06/2018,Active,Salary with Other Bank,Inactive DR,No Bill,Active CC,10763.41871
+277083,INDIA,75,14/02/2020,Active,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,2447.024839
+187382,PAKISTAN,49,10/06/2019,Active,Salary with Other Bank,Active DR,Inactive Bill,Active CC,946.9516129
+443940,INDIA,40,28/07/2019,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,6330.003226
+131835,EGYPT,29,19/12/2020,No Spends,Salary with Bank,Active DR,Inactive Bill,Active CC,0.33
+397401,HUNGARY,37,23/09/2019,Inactive,Salary with Other Bank,No DR,Inactive Bill,No CC,0.68
+388517,PHILIPPINES,65,29/06/2017,Active,No Salary,No DR,No Bill,No CC,528.5487097
+332753,PHILIPPINES,44,26/11/2021,Active,No Salary,Active DR,Active Bill,No CC,0
+229004,NEPAL,76,9/09/2019,Active,Salary with Bank,Inactive DR,Active Bill,No CC,3276.818387
+3719,INDIA,68,27/02/2021,No Spends,Salary with Other Bank,Active DR,No Bill,Active CC,154.8812903
+405998,INDIA,23,2/09/2020,No Spends,No Salary,Inactive DR,No Bill,Inactive CC,11.85258065
+114197,PHILIPPINES,27,16/11/2017,Active,No Salary,No DR,Inactive Bill,Inactive CC,1155.175161
+29567,PAKISTAN,42,11/02/2018,No Spends,No Salary,Inactive DR,No Bill,No CC,0
+270219,INDIA,32,11/02/2021,No Spends,Salary with Other Bank,No DR,No Bill,Inactive CC,8.631290323
+421697,UNITED ARAB EMIRATES,55,8/04/2018,Active,No Salary,Active DR,Inactive Bill,Inactive CC,0
+392332,INDIA,64,21/05/2021,No Spends,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,0
+463272,UNITED ARAB EMIRATES,53,12/08/2018,No Spends,Salary with Other Bank,No DR,Active Bill,Active CC,10.71870968
+316456,INDIA,57,4/09/2017,No Spends,No Salary,No DR,No Bill,Active CC,0
+220733,BANGLADESH,28,25/04/2021,No Spends,No Salary,Active DR,Active Bill,Inactive CC,9707.71
+371717,BANGLADESH,29,7/01/2018,Active,No Salary,Active DR,Active Bill,Active CC,0.54
+437884,INDIA,49,20/12/2019,No Spends,Salary with Other Bank,Active DR,Active Bill,Active CC,570.0496774
+437859,UNITED KINGDOM,63,7/04/2018,Active,Salary with Bank,No DR,Active Bill,Active CC,615.0377419
+355465,INDIA,57,7/11/2021,Inactive,Salary with Bank,No DR,No Bill,No CC,0
+498652,INDIA,43,2/12/2018,No Spends,Salary with Bank,No DR,Inactive Bill,No CC,1019.45
+67457,PHILIPPINES,50,13/11/2019,Active,No Salary,Active DR,No Bill,Inactive CC,0.63
+349888,INDIA,30,30/08/2020,No Spends,No Salary,No DR,No Bill,Active CC,632.5693548
+128227,PHILIPPINES,59,6/07/2018,Inactive,No Salary,No DR,Active Bill,No CC,8092.308065
+380177,AFGHANISTAN,72,29/07/2019,No Spends,Salary with Other Bank,Active DR,Active Bill,Active CC,0
+166816,INDIA,55,7/10/2017,Inactive,Salary with Other Bank,No DR,Inactive Bill,No CC,0
+90292,INDIA,64,19/12/2018,No Spends,Salary with Bank,No DR,Active Bill,Active CC,418.4135484
+407733,INDIA,54,22/07/2018,No Spends,Salary with Bank,Active DR,Active Bill,Active CC,5.000322581
+137145,INDIA,24,16/06/2018,No Spends,Salary with Other Bank,Active DR,Active Bill,Inactive CC,33.02774194
+426796,UNITED ARAB EMIRATES,30,10/07/2018,Active,No Salary,No DR,Active Bill,Inactive CC,48.46612903
+76645,INDIA,45,8/01/2018,No Spends,Salary with Other Bank,Active DR,Active Bill,Inactive CC,1001.446452
+278060,PHILIPPINES,25,2/09/2019,Inactive,No Salary,No DR,No Bill,Active CC,3.21
+441875,UNITED ARAB EMIRATES,43,19/01/2020,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Active CC,67.76354839
+491155,BANGLADESH,33,24/02/2020,Inactive,Salary with Other Bank,No DR,No Bill,Inactive CC,367.5703226
+46306,INDIA,39,28/11/2020,No Spends,No Salary,No DR,Active Bill,Inactive CC,0
+416200,JORDAN,45,17/10/2021,Active,Salary with Other Bank,Inactive DR,Active Bill,Active CC,23.61774194
+93868,IRAN,22,15/02/2020,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,49511.09935
+57676,PAKISTAN,33,12/03/2018,Active,No Salary,Active DR,Inactive Bill,Active CC,0
+247323,EGYPT,22,28/04/2017,Active,Salary with Other Bank,Active DR,Inactive Bill,No CC,76232.42452
+338378,INDIA,61,30/09/2017,No Spends,Salary with Bank,No DR,No Bill,No CC,11.27806452
+349345,INDIA,70,17/10/2018,Inactive,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,1142.52129
+414743,INDIA,21,11/02/2021,Active,Salary with Bank,Active DR,Inactive Bill,Inactive CC,451.8674194
+39973,INDIA,31,23/03/2020,No Spends,Salary with Other Bank,Active DR,No Bill,No CC,601.92
+26,INDIA,39,17/12/2021,No Spends,No Salary,No DR,No Bill,Inactive CC,63.55
+151966,PHILIPPINES,49,1/08/2021,No Spends,Salary with Bank,Active DR,No Bill,No CC,0.73
+360901,INDIA,43,15/11/2020,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,393.6877419
+23473,PAKISTAN,57,20/05/2020,No Spends,Salary with Other Bank,Inactive DR,No Bill,No CC,1588.689355
+362,INDIA,35,28/04/2017,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,0
+155328,PHILIPPINES,74,28/06/2020,Active,No Salary,Active DR,No Bill,No CC,0
+380060,INDIA,66,4/07/2018,Active,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,0
+145091,INDIA,31,12/09/2017,Inactive,Salary with Bank,Inactive DR,Inactive Bill,No CC,0.68
+316922,PAKISTAN,48,9/10/2021,No Spends,Salary with Other Bank,No DR,No Bill,Inactive CC,50.5583871
+171329,PHILIPPINES,52,26/08/2021,Inactive,No Salary,Inactive DR,No Bill,Inactive CC,0
+73907,INDIA,71,24/01/2021,Inactive,No Salary,Active DR,Active Bill,Inactive CC,2463.299677
+474842,PHILIPPINES,74,24/09/2019,No Spends,Salary with Other Bank,Inactive DR,No Bill,Active CC,613.3593548
+38466,INDIA,60,3/12/2021,No Spends,Salary with Other Bank,No DR,Active Bill,Active CC,7385.806452
+219134,INDIA,60,17/10/2017,Active,No Salary,No DR,No Bill,Inactive CC,63.89354839
+417605,SRI LANKA,41,17/08/2020,Active,No Salary,Active DR,No Bill,Inactive CC,200.2809677
+402662,YEMEN,38,10/04/2020,No Spends,Salary with Bank,No DR,Inactive Bill,Active CC,258.1451613
+332224,UNITED KINGDOM,61,4/07/2017,No Spends,Salary with Other Bank,Active DR,No Bill,Active CC,64.54
+247905,PHILIPPINES,29,15/01/2021,Inactive,No Salary,Active DR,Inactive Bill,Inactive CC,0
+216053,INDIA,65,20/08/2020,No Spends,No Salary,Active DR,Active Bill,Inactive CC,25020.12871
+173985,INDIA,27,3/07/2017,Inactive,Salary with Other Bank,Inactive DR,No Bill,Active CC,320.1277419
+62508,EGYPT,58,25/12/2017,Active,Salary with Bank,No DR,Active Bill,Inactive CC,0.81
+250780,PAKISTAN,22,18/02/2022,Active,No Salary,No DR,Active Bill,Active CC,0
+68099,INDIA,71,25/08/2017,Inactive,Salary with Bank,Inactive DR,No Bill,No CC,8495.217097
+208432,PHILIPPINES,60,12/06/2017,No Spends,No Salary,Inactive DR,Inactive Bill,Active CC,457.2554839
+215124,INDIA,50,8/01/2021,Active,No Salary,No DR,Active Bill,No CC,6.052903226
+455900,LEBANON,70,2/11/2020,Inactive,Salary with Other Bank,Active DR,No Bill,Active CC,29135.77839
+299425,PHILIPPINES,30,19/04/2019,Active,No Salary,Active DR,Inactive Bill,No CC,839.6709677
+361009,INDIA,75,27/09/2020,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,2013.220645
+230593,PHILIPPINES,23,9/04/2019,No Spends,No Salary,Inactive DR,Inactive Bill,No CC,907.9945161
+488831,PHILIPPINES,24,24/02/2021,Active,Salary with Other Bank,Active DR,Active Bill,No CC,0
+234951,INDIA,24,3/02/2020,Inactive,Salary with Other Bank,Inactive DR,Active Bill,Active CC,0
+127437,INDIA,47,10/02/2018,Inactive,Salary with Bank,Active DR,Active Bill,No CC,10.69935484
+415319,NEPAL,76,25/06/2020,No Spends,No Salary,Active DR,No Bill,No CC,280.3596774
+180640,PHILIPPINES,38,4/02/2021,Active,Salary with Other Bank,Inactive DR,Active Bill,No CC,1664.788065
+472643,UNITED STATES,26,21/05/2019,No Spends,Salary with Bank,Active DR,Inactive Bill,Inactive CC,0
+292448,PHILIPPINES,58,31/07/2019,Active,No Salary,Inactive DR,No Bill,No CC,137.7035484
+32739,PHILIPPINES,65,11/02/2018,Inactive,Salary with Bank,No DR,Inactive Bill,Active CC,827.6596774
+393347,EGYPT,50,15/12/2019,No Spends,Salary with Other Bank,No DR,No Bill,Inactive CC,-0.689677419
+388976,INDIA,64,20/12/2020,Active,Salary with Bank,No DR,No Bill,No CC,0
+439710,SRI LANKA,59,26/10/2021,Active,Salary with Other Bank,Inactive DR,Active Bill,No CC,925.4854839
+38726,PAKISTAN,77,5/01/2019,Active,Salary with Other Bank,Active DR,Inactive Bill,No CC,0.6
+253923,PAKISTAN,73,8/03/2017,No Spends,Salary with Bank,Active DR,Active Bill,Inactive CC,0
+160080,INDIA,58,7/02/2017,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,0
+309302,PAKISTAN,36,14/08/2018,Active,No Salary,No DR,Inactive Bill,Inactive CC,39.2883871
+131187,PHILIPPINES,60,15/09/2020,No Spends,Salary with Bank,Inactive DR,Active Bill,Active CC,49766.93
+459254,INDIA,24,25/03/2018,Active,No Salary,Inactive DR,No Bill,Active CC,356.6170968
+16843,JAPAN,70,4/06/2020,No Spends,Salary with Bank,Active DR,Active Bill,Inactive CC,21.66
+442056,SOMALIA,41,9/02/2021,Inactive,No Salary,Inactive DR,Inactive Bill,Active CC,91.98387097
+271150,CHINA,75,15/04/2017,Active,Salary with Bank,No DR,Inactive Bill,Active CC,79.92967742
+462946,UNITED ARAB EMIRATES,57,27/09/2020,Active,Salary with Bank,Active DR,Active Bill,No CC,18967.56871
+167859,PHILIPPINES,53,13/11/2019,No Spends,Salary with Other Bank,Inactive DR,No Bill,Active CC,0
+374077,BANGLADESH,29,16/08/2017,Inactive,Salary with Other Bank,No DR,Inactive Bill,No CC,1382.607742
+92505,BANGLADESH,30,4/08/2019,Active,No Salary,Active DR,No Bill,Active CC,0
+386133,UNITED ARAB EMIRATES,41,8/09/2017,Inactive,Salary with Other Bank,No DR,No Bill,No CC,2.28
+114143,EGYPT,55,1/12/2019,Inactive,Salary with Bank,Active DR,Active Bill,Inactive CC,0
+313348,INDIA,36,7/07/2019,Inactive,Salary with Bank,Active DR,No Bill,Inactive CC,0
+42113,PAKISTAN,59,8/02/2022,Inactive,No Salary,No DR,No Bill,Active CC,0
+290541,INDIA,48,11/04/2017,Inactive,No Salary,No DR,Inactive Bill,Inactive CC,0
+233774,CHINA,55,16/07/2018,Active,Salary with Bank,No DR,No Bill,Inactive CC,0
+95648,UNITED ARAB EMIRATES,61,18/03/2021,Active,Salary with Other Bank,No DR,Active Bill,Inactive CC,1781.101935
+390591,PHILIPPINES,68,10/05/2019,Active,Salary with Other Bank,Active DR,No Bill,Inactive CC,4093.747742
+87542,PHILIPPINES,46,14/06/2017,Active,Salary with Bank,Active DR,Inactive Bill,Active CC,0
+262160,EGYPT,73,13/06/2017,Inactive,No Salary,Active DR,Inactive Bill,Inactive CC,0
+105295,INDIA,51,31/03/2021,No Spends,No Salary,Active DR,No Bill,No CC,10.5
+389103,INDIA,65,13/12/2018,Active,No Salary,Active DR,Active Bill,Inactive CC,469.7248387
+29498,INDIA,60,11/08/2021,Active,Salary with Other Bank,No DR,Active Bill,Inactive CC,440.7606452
+122656,INDIA,71,28/08/2017,Active,Salary with Bank,No DR,Active Bill,Active CC,69.92645161
+391664,INDIA,52,15/07/2021,Inactive,Salary with Bank,Inactive DR,Inactive Bill,Active CC,497.0967742
+367439,INDIA,51,26/11/2021,No Spends,Salary with Other Bank,No DR,Inactive Bill,No CC,1698.392258
+161883,INDIA,59,1/09/2021,Inactive,No Salary,Active DR,Inactive Bill,Inactive CC,0
+312050,PHILIPPINES,23,28/05/2021,Active,No Salary,Active DR,Inactive Bill,No CC,1703.276452
+347648,PAKISTAN,28,17/05/2018,Inactive,Salary with Bank,No DR,Inactive Bill,Inactive CC,0
+374185,PHILIPPINES,75,23/04/2018,No Spends,No Salary,Inactive DR,Inactive Bill,No CC,255.1919355
+147493,UNITED ARAB EMIRATES,44,7/08/2019,Inactive,Salary with Other Bank,Active DR,No Bill,Active CC,0
+253646,SRI LANKA,32,1/02/2018,Active,Salary with Other Bank,No DR,Active Bill,Inactive CC,11561.0229
+234445,NEPAL,40,14/12/2021,No Spends,No Salary,Active DR,No Bill,Inactive CC,284.4345161
+41137,KENYA,73,5/01/2020,Active,No Salary,Inactive DR,No Bill,Inactive CC,0
+361910,PHILIPPINES,46,12/03/2018,Active,No Salary,Active DR,Active Bill,No CC,10.56
+26595,MACEDONIA,40,7/06/2017,Active,No Salary,Inactive DR,No Bill,Active CC,0
+239907,SYRIA,40,27/02/2022,No Spends,Salary with Bank,Active DR,Inactive Bill,No CC,0.29
+460577,INDIA,61,26/05/2019,No Spends,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,8409.560323
+456809,NEW ZEALAND,57,4/10/2018,Active,No Salary,No DR,Inactive Bill,No CC,0
+48766,BANGLADESH,56,14/07/2019,Inactive,No Salary,Active DR,Inactive Bill,Active CC,455.8383871
+340307,INDIA,65,23/10/2021,Inactive,Salary with Other Bank,No DR,No Bill,Active CC,778.1941935
+145317,EGYPT,55,4/08/2017,Active,Salary with Bank,Active DR,No Bill,Active CC,54.1616129
+36396,INDIA,65,19/05/2019,Inactive,Salary with Other Bank,Active DR,No Bill,Inactive CC,1418.795484
+190988,PHILIPPINES,75,5/02/2018,Active,Salary with Bank,No DR,No Bill,Inactive CC,0.258064516
+155296,INDIA,33,19/08/2019,No Spends,No Salary,Active DR,No Bill,Active CC,2221.412581
+83222,PHILIPPINES,23,8/08/2021,No Spends,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,0
+415764,PHILIPPINES,37,23/06/2021,Active,No Salary,No DR,Inactive Bill,No CC,239.6067742
+351150,PHILIPPINES,28,13/02/2021,No Spends,Salary with Other Bank,No DR,Active Bill,Active CC,3059.927419
+386798,INDIA,31,19/10/2021,No Spends,Salary with Bank,Active DR,Active Bill,Inactive CC,33817.37903
+345905,PAKISTAN,34,5/07/2020,No Spends,Salary with Bank,Inactive DR,Active Bill,No CC,0
+288687,INDIA,49,9/08/2017,Active,No Salary,Active DR,Active Bill,Active CC,2.470322581
+171641,PHILIPPINES,21,22/02/2021,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+341224,INDIA,38,18/02/2021,No Spends,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,202.5922581
+408996,SRI LANKA,77,17/08/2017,No Spends,No Salary,Active DR,Active Bill,No CC,0
+245525,MOROCCO,65,8/03/2018,No Spends,Salary with Bank,No DR,No Bill,Active CC,0
+307291,JORDAN,66,21/04/2019,No Spends,Salary with Bank,Active DR,No Bill,Inactive CC,1306.079032
+230210,INDIA,25,7/03/2018,No Spends,Salary with Other Bank,No DR,Inactive Bill,Active CC,0.61
+155985,PHILIPPINES,63,5/06/2019,Inactive,No Salary,Active DR,Active Bill,Active CC,5587.611935
+226945,EGYPT,56,2/05/2018,No Spends,Salary with Other Bank,Active DR,Active Bill,Inactive CC,0
+311325,INDIA,21,4/05/2017,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,0
+271380,INDIA,71,2/09/2019,Active,Salary with Bank,Active DR,No Bill,No CC,-24.25
+25655,INDIA,48,30/04/2018,No Spends,Salary with Bank,Active DR,No Bill,Active CC,62.23
+43684,NEPAL,56,16/08/2017,Inactive,No Salary,Inactive DR,No Bill,Inactive CC,0
+87576,INDIA,71,7/09/2017,Active,Salary with Other Bank,Active DR,Active Bill,No CC,0
+218198,BOSNIA & HERZEGOVINA,54,26/04/2019,Inactive,Salary with Bank,Active DR,Active Bill,Inactive CC,0
+362640,PAKISTAN,73,14/11/2021,Inactive,Salary with Bank,Inactive DR,Inactive Bill,No CC,61319.92806
+179007,PHILIPPINES,25,16/12/2018,No Spends,No Salary,No DR,Inactive Bill,Inactive CC,0
+442624,UNITED ARAB EMIRATES,72,5/01/2021,Inactive,No Salary,Inactive DR,No Bill,Active CC,163.6354839
+498096,BANGLADESH,38,5/11/2021,Active,Salary with Other Bank,Inactive DR,Active Bill,No CC,0
+358905,MYANMAR,41,2/07/2017,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,1671.68
+179734,INDIA,37,9/03/2019,No Spends,Salary with Bank,No DR,No Bill,Active CC,0
+215793,INDIA,35,10/09/2021,Inactive,No Salary,Active DR,Active Bill,Inactive CC,0
+61961,SYRIA,57,1/06/2018,No Spends,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,3484.023226
+201866,INDIA,63,7/03/2022,Active,Salary with Bank,Active DR,Inactive Bill,Active CC,0
+116106,INDIA,66,1/09/2019,Active,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,3323.796774
+313003,PHILIPPINES,43,17/06/2020,Active,No Salary,No DR,No Bill,Active CC,0
+35405,INDIA,35,25/11/2021,Active,No Salary,No DR,Inactive Bill,Inactive CC,23.28
+175961,INDIA,65,25/07/2021,No Spends,Salary with Bank,Inactive DR,No Bill,No CC,2.28
+403738,INDIA,45,16/03/2018,Active,Salary with Other Bank,Active DR,Inactive Bill,No CC,0
+327586,PHILIPPINES,74,8/08/2017,No Spends,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,244.7993548
+159347,INDIA,32,15/05/2021,No Spends,No Salary,Inactive DR,Active Bill,No CC,1998.709677
+296178,JORDAN,40,12/11/2018,Active,Salary with Bank,No DR,Active Bill,Active CC,452.0406452
+198511,INDIA,38,6/01/2019,Active,Salary with Bank,No DR,Inactive Bill,Inactive CC,0
+216888,PHILIPPINES,60,13/03/2021,Inactive,Salary with Other Bank,Active DR,Inactive Bill,No CC,0
+452314,BANGLADESH,76,13/06/2020,Inactive,No Salary,No DR,Active Bill,Inactive CC,4718.917419
+270603,INDIA,54,5/09/2021,Inactive,No Salary,No DR,No Bill,Inactive CC,5928.907419
+284131,EGYPT,54,26/08/2021,Inactive,No Salary,Active DR,Active Bill,No CC,87.79193548
+244350,YEMEN,58,30/01/2021,No Spends,Salary with Bank,No DR,No Bill,No CC,33882.06935
+85531,PAKISTAN,33,18/11/2017,Active,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,35.4116129
+20005,PHILIPPINES,27,15/08/2021,Active,Salary with Bank,Inactive DR,No Bill,Inactive CC,0.42
+225191,EGYPT,62,19/01/2021,Active,Salary with Other Bank,Inactive DR,Active Bill,No CC,424.926129
+42410,SOUTH AFRICA,44,25/04/2018,Active,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,0
+125722,PHILIPPINES,67,2/10/2019,Inactive,No Salary,Active DR,Inactive Bill,No CC,0
+421811,PHILIPPINES,43,5/01/2018,Inactive,Salary with Bank,No DR,Inactive Bill,Inactive CC,450.9654839
+423813,INDIA,49,21/03/2019,No Spends,Salary with Bank,Inactive DR,Active Bill,Inactive CC,988.6512903
+133709,PHILIPPINES,57,15/09/2021,No Spends,No Salary,Active DR,No Bill,Active CC,0
+136345,INDIA,67,23/05/2020,No Spends,No Salary,Inactive DR,No Bill,Inactive CC,0
+272854,PHILIPPINES,66,20/09/2021,Active,Salary with Other Bank,No DR,No Bill,No CC,0
+331285,PHILIPPINES,58,20/11/2018,No Spends,No Salary,No DR,Inactive Bill,No CC,0
+165518,PAKISTAN,70,26/02/2021,Inactive,No Salary,Inactive DR,Active Bill,Inactive CC,254.9554839
+373578,PHILIPPINES,30,26/11/2019,No Spends,Salary with Bank,Active DR,No Bill,No CC,0
+384225,PHILIPPINES,44,22/10/2019,Inactive,Salary with Bank,No DR,Active Bill,Active CC,4770.310645
+425410,INDIA,62,28/08/2021,No Spends,Salary with Bank,No DR,Active Bill,Inactive CC,2778.502258
+470417,INDIA,72,13/08/2019,Active,Salary with Other Bank,Active DR,No Bill,Active CC,0
+12448,AUSTRALIA,66,6/08/2021,Inactive,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,646.3687097
+12115,NEPAL,46,24/06/2020,No Spends,Salary with Bank,Active DR,Inactive Bill,No CC,88.06677419
+131981,PAKISTAN,41,18/04/2020,Inactive,Salary with Bank,Inactive DR,Active Bill,No CC,0
+58945,INDIA,39,2/10/2021,Inactive,Salary with Bank,Active DR,Inactive Bill,Inactive CC,0
+420775,PHILIPPINES,55,25/03/2020,No Spends,No Salary,Active DR,Active Bill,Active CC,0
+304168,SRI LANKA,76,15/04/2020,No Spends,Salary with Other Bank,No DR,Inactive Bill,No CC,836.8374194
+15667,PALESTINE,69,24/03/2022,No Spends,Salary with Bank,Active DR,No Bill,No CC,4.07
+215451,INDIA,37,27/05/2017,Inactive,Salary with Bank,No DR,Active Bill,Active CC,27834.88194
+108804,PAKISTAN,34,15/06/2017,Active,No Salary,Inactive DR,Active Bill,Inactive CC,2589.359355
+202490,PAKISTAN,34,8/02/2018,Inactive,Salary with Bank,Active DR,Inactive Bill,No CC,0
+327817,PHILIPPINES,69,20/10/2018,Active,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,0
+232711,INDIA,50,21/10/2017,Active,Salary with Other Bank,No DR,Inactive Bill,No CC,1.42
+205470,PHILIPPINES,77,24/10/2017,Active,No Salary,Inactive DR,Inactive Bill,No CC,0
+252208,INDIA,50,13/02/2022,Active,No Salary,Inactive DR,Inactive Bill,Active CC,0
+4510,UNITED ARAB EMIRATES,47,2/12/2018,Inactive,Salary with Bank,Inactive DR,Active Bill,Inactive CC,0
+16140,PAKISTAN,32,4/08/2017,No Spends,Salary with Bank,Active DR,Inactive Bill,Active CC,36174.18677
+29591,INDIA,21,8/01/2018,No Spends,No Salary,Active DR,Inactive Bill,Active CC,0.4
+49596,EGYPT,57,11/10/2017,Inactive,Salary with Other Bank,No DR,No Bill,Inactive CC,0
+462962,INDIA,77,31/10/2020,No Spends,Salary with Bank,No DR,Active Bill,No CC,0
+250210,PAKISTAN,30,24/08/2020,Active,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,115.3422581
+466159,PHILIPPINES,42,11/05/2020,No Spends,No Salary,Active DR,Active Bill,Active CC,53.25451613
+223384,UNITED ARAB EMIRATES,65,10/01/2019,Active,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,3.93
+335605,INDIA,55,7/12/2021,Inactive,Salary with Bank,Inactive DR,No Bill,Active CC,10.59935484
+324397,INDIA,51,4/08/2021,Active,Salary with Bank,Inactive DR,No Bill,Inactive CC,3226.057419
+457522,FRANCE,77,9/08/2021,Active,Salary with Other Bank,No DR,Inactive Bill,Active CC,13118.66
+159393,PAKISTAN,77,19/03/2020,Inactive,Salary with Bank,Inactive DR,Active Bill,Inactive CC,0
+423475,PHILIPPINES,75,6/11/2019,No Spends,Salary with Bank,Active DR,Active Bill,No CC,0
+328830,INDIA,49,20/10/2019,Active,Salary with Bank,No DR,No Bill,No CC,2321.246774
+81215,PHILIPPINES,64,21/07/2021,Active,Salary with Bank,No DR,No Bill,No CC,0
+152741,INDIA,59,12/11/2018,Inactive,No Salary,Inactive DR,Inactive Bill,No CC,0
+92218,UNITED ARAB EMIRATES,53,18/09/2018,No Spends,Salary with Other Bank,Inactive DR,No Bill,Active CC,18.39
+84754,PAKISTAN,74,15/06/2018,No Spends,No Salary,No DR,No Bill,Active CC,0
+468869,INDIA,53,13/07/2018,Inactive,No Salary,Inactive DR,Inactive Bill,No CC,0
+212890,UNITED ARAB EMIRATES,45,19/09/2017,Active,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,0
+42901,JORDAN,28,23/04/2019,Active,Salary with Other Bank,Active DR,Inactive Bill,Active CC,0
+194052,INDIA,49,13/10/2018,Active,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,564.8035484
+79199,PHILIPPINES,24,1/09/2019,Inactive,Salary with Bank,Active DR,No Bill,Inactive CC,271.4777419
+294403,PHILIPPINES,40,12/02/2020,No Spends,Salary with Bank,Active DR,No Bill,Active CC,11098.43032
+442852,INDIA,32,16/07/2021,Active,No Salary,Inactive DR,Inactive Bill,Active CC,20.17645161
+34110,EGYPT,53,15/02/2019,Active,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,593.8183871
+464511,INDIA,24,26/10/2021,Inactive,Salary with Bank,Inactive DR,Active Bill,Active CC,14.42258065
+103084,SRI LANKA,58,5/04/2019,Active,No Salary,No DR,No Bill,Active CC,2346.37
+123528,PHILIPPINES,29,6/08/2017,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,220.5274194
+217273,INDIA,22,12/10/2019,No Spends,No Salary,Inactive DR,Inactive Bill,Active CC,1166.895806
+461208,NEPAL,48,2/12/2021,No Spends,Salary with Bank,Inactive DR,No Bill,Active CC,0
+311645,PHILIPPINES,55,9/01/2020,No Spends,Salary with Other Bank,Inactive DR,No Bill,No CC,2.59
+74309,PHILIPPINES,77,31/07/2019,No Spends,Salary with Other Bank,Inactive DR,Active Bill,No CC,2.29
+476420,INDIA,52,11/06/2020,Active,Salary with Bank,Active DR,Active Bill,No CC,0
+47407,BANGLADESH,24,5/10/2017,No Spends,Salary with Bank,Active DR,Inactive Bill,Inactive CC,0
+55843,INDIA,51,9/07/2020,No Spends,No Salary,No DR,No Bill,No CC,10.5
+123122,SRI LANKA,71,16/03/2021,Active,Salary with Bank,Inactive DR,Inactive Bill,No CC,0
+491837,EGYPT,33,26/11/2020,Active,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,121.6909677
+175380,INDIA,24,21/04/2018,Active,No Salary,No DR,No Bill,No CC,22.92064516
+330316,EGYPT,32,5/10/2018,Inactive,Salary with Other Bank,Active DR,Active Bill,No CC,3134.132258
+127138,INDIA,24,21/06/2019,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+301408,PAKISTAN,64,18/04/2019,No Spends,Salary with Bank,No DR,Active Bill,Active CC,962.3264516
+424031,PHILIPPINES,29,20/09/2019,Inactive,No Salary,No DR,Inactive Bill,No CC,1852.671935
+124767,JORDAN,52,28/07/2019,Active,Salary with Bank,No DR,No Bill,No CC,3247.917097
+191961,INDIA,42,28/03/2020,No Spends,No Salary,Inactive DR,Active Bill,Inactive CC,0
+76279,MYANMAR,22,24/02/2022,Inactive,No Salary,No DR,No Bill,No CC,156.5664516
+323419,SRI LANKA,28,13/10/2017,Active,Salary with Bank,No DR,No Bill,No CC,36.79870968
+130293,INDIA,73,30/07/2020,Active,No Salary,Inactive DR,Active Bill,Inactive CC,0
+56021,PHILIPPINES,55,10/09/2020,No Spends,No Salary,Active DR,Inactive Bill,Active CC,0
+321245,BANGLADESH,68,25/08/2019,No Spends,No Salary,Inactive DR,No Bill,No CC,2.25
+128319,INDIA,27,16/08/2017,Active,Salary with Bank,No DR,Inactive Bill,No CC,0
+217586,INDIA,25,14/11/2019,No Spends,Salary with Bank,Inactive DR,Active Bill,Inactive CC,0
+222539,PHILIPPINES,66,13/06/2018,Inactive,Salary with Other Bank,Active DR,Active Bill,No CC,478.6729032
+454317,PHILIPPINES,26,5/12/2019,Active,Salary with Bank,Active DR,Inactive Bill,Inactive CC,91.88774194
+240059,PHILIPPINES,72,15/04/2021,Active,No Salary,Inactive DR,No Bill,No CC,100
+348546,JORDAN,27,8/12/2019,Active,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,16954.00161
+172346,PAKISTAN,68,22/12/2018,Active,Salary with Other Bank,Inactive DR,Active Bill,No CC,0
+238910,PAKISTAN,67,21/06/2019,Active,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,12076.93226
+325137,CAMEROON,28,16/03/2018,Inactive,No Salary,Active DR,Inactive Bill,No CC,1.05
+24981,UNITED ARAB EMIRATES,63,26/06/2020,Active,Salary with Bank,No DR,Inactive Bill,Inactive CC,0
+150119,EGYPT,64,17/01/2020,Inactive,Salary with Other Bank,Active DR,No Bill,Active CC,3595.629677
+479576,UGANDA,66,11/10/2021,Inactive,Salary with Bank,No DR,Inactive Bill,Inactive CC,0
+441013,EGYPT,52,11/03/2018,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,0
+459745,PHILIPPINES,32,19/10/2018,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,408.6035484
+133032,PAKISTAN,59,5/01/2021,Active,No Salary,Active DR,Inactive Bill,Active CC,0
+260118,PHILIPPINES,70,17/08/2019,Inactive,No Salary,No DR,Inactive Bill,Inactive CC,2311.473871
+273316,INDIA,28,8/03/2019,Inactive,No Salary,Active DR,No Bill,No CC,30983.91677
+91653,PALESTINE,57,25/08/2019,Active,Salary with Other Bank,Inactive DR,No Bill,No CC,5508.552581
+210460,PHILIPPINES,52,5/02/2019,Inactive,No Salary,No DR,No Bill,Inactive CC,0
+226934,EGYPT,52,12/09/2018,Active,Salary with Bank,Active DR,Active Bill,Active CC,4960.042581
+374805,INDIA,46,20/01/2021,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Active CC,3127.565161
+234949,PAKISTAN,31,25/01/2018,No Spends,No Salary,No DR,No Bill,Active CC,0
+196533,INDIA,70,5/01/2018,Inactive,Salary with Other Bank,No DR,Active Bill,Inactive CC,0
+316465,INDIA,35,28/03/2021,Active,Salary with Bank,No DR,No Bill,No CC,0
+374741,THAILAND,26,29/12/2019,Active,Salary with Other Bank,Active DR,Active Bill,No CC,0
+177365,PHILIPPINES,58,14/09/2017,Active,No Salary,Active DR,Inactive Bill,No CC,170.6851613
+309375,INDIA,70,4/12/2018,Active,Salary with Bank,Inactive DR,No Bill,Inactive CC,2773.626774
+290050,INDIA,48,13/03/2020,Active,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,0
+124052,BANGLADESH,29,23/03/2020,Inactive,No Salary,Inactive DR,No Bill,Inactive CC,0
+194286,PAKISTAN,64,30/04/2017,No Spends,Salary with Bank,No DR,Inactive Bill,No CC,0
+339648,BANGLADESH,33,13/12/2021,Active,Salary with Other Bank,Active DR,No Bill,No CC,661.6922581
+208545,PHILIPPINES,60,28/01/2019,Inactive,Salary with Bank,Inactive DR,Active Bill,No CC,0
+333473,PHILIPPINES,65,5/09/2017,Active,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,160.8858065
+369213,AUSTRALIA,66,20/02/2018,Active,No Salary,Active DR,No Bill,Active CC,1987.06
+325518,INDIA,57,14/05/2020,No Spends,Salary with Other Bank,No DR,No Bill,Inactive CC,121558.3029
+158749,INDIA,21,17/12/2018,Inactive,Salary with Bank,Active DR,No Bill,No CC,303.513871
+390506,UNITED ARAB EMIRATES,32,5/09/2017,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,932.5567742
+103650,YEMEN,66,4/05/2021,Inactive,Salary with Bank,Active DR,Active Bill,No CC,462.216129
+304112,NEPAL,21,9/01/2021,No Spends,No Salary,Inactive DR,Inactive Bill,Active CC,0
+412795,INDIA,32,21/10/2017,Active,No Salary,Active DR,Inactive Bill,No CC,0
+314704,ITALY,37,7/11/2020,No Spends,No Salary,Inactive DR,Inactive Bill,No CC,84995.74871
+46474,INDIA,22,28/11/2019,Inactive,No Salary,Active DR,Inactive Bill,Active CC,0
+219874,INDIA,31,6/02/2021,Active,Salary with Bank,No DR,Inactive Bill,No CC,0
+345963,PAKISTAN,59,7/04/2017,Inactive,Salary with Other Bank,No DR,No Bill,Inactive CC,4244.126452
+90745,INDIA,50,8/03/2021,No Spends,Salary with Bank,Inactive DR,No Bill,Active CC,0
+147476,UGANDA,22,4/10/2017,No Spends,Salary with Bank,No DR,Active Bill,Inactive CC,0.11
+362740,NEPAL,59,1/09/2021,No Spends,No Salary,Active DR,Inactive Bill,Inactive CC,0
+419215,LEBANON,36,2/07/2020,Active,No Salary,Inactive DR,No Bill,No CC,3625.705806
+205795,MEXICO,32,15/05/2018,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,0
+276365,PHILIPPINES,47,11/01/2021,Inactive,No Salary,Inactive DR,Active Bill,No CC,115.1954839
+286393,INDIA,49,13/11/2019,Inactive,Salary with Bank,Active DR,Active Bill,Inactive CC,605.9309677
+99485,INDIA,63,14/11/2019,Active,Salary with Other Bank,No DR,Inactive Bill,Active CC,1071.36871
+113071,INDIA,49,12/03/2019,Active,Salary with Other Bank,No DR,Inactive Bill,No CC,538.3274194
+78852,INDIA,61,19/12/2018,No Spends,No Salary,Inactive DR,No Bill,No CC,0
+203714,INDIA,58,7/09/2018,Active,No Salary,No DR,Inactive Bill,Active CC,0
+324494,INDIA,75,6/03/2018,No Spends,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,336.0874194
+72360,INDIA,59,19/04/2021,Inactive,Salary with Other Bank,Active DR,No Bill,Active CC,9261.341935
+71834,PAKISTAN,34,7/10/2017,Active,No Salary,Active DR,Inactive Bill,No CC,0
+414725,BANGLADESH,49,21/06/2020,Inactive,Salary with Bank,Active DR,No Bill,Active CC,0.147096774
+206894,INDIA,39,13/08/2019,Active,Salary with Other Bank,Inactive DR,Active Bill,No CC,14715.77871
+47822,PAKISTAN,41,3/03/2020,No Spends,Salary with Other Bank,Active DR,Active Bill,No CC,0
+431014,INDIA,24,15/07/2019,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,453.0987097
+115581,INDIA,32,21/02/2022,No Spends,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,1428.911613
+96244,CAMEROON,42,5/04/2018,No Spends,Salary with Other Bank,Active DR,Active Bill,Inactive CC,0.29
+101430,INDIA,43,11/03/2018,No Spends,Salary with Other Bank,No DR,No Bill,Active CC,0
+142551,PHILIPPINES,53,10/10/2017,Inactive,No Salary,Active DR,Active Bill,Active CC,116.51
+426892,INDIA,72,31/03/2018,Active,Salary with Bank,No DR,Inactive Bill,Active CC,5.98
+104116,INDIA,49,10/06/2019,Active,No Salary,No DR,Active Bill,Inactive CC,0
+413130,PHILIPPINES,63,24/04/2021,Active,No Salary,No DR,Active Bill,No CC,355.7441935
+490905,INDIA,62,5/02/2021,Inactive,No Salary,Inactive DR,No Bill,Active CC,0
+275815,EGYPT,30,8/04/2021,Active,Salary with Bank,Inactive DR,No Bill,Inactive CC,1.1
+407333,INDIA,60,20/08/2018,Active,Salary with Bank,No DR,No Bill,Inactive CC,0
+286381,PAKISTAN,47,17/04/2017,No Spends,Salary with Other Bank,No DR,Active Bill,Inactive CC,0
+213130,PHILIPPINES,37,2/04/2021,No Spends,Salary with Bank,No DR,No Bill,Active CC,2409.521935
+416342,INDIA,57,1/10/2018,Inactive,No Salary,Active DR,Active Bill,Active CC,4401.842581
+413960,TAJIKISTAN,68,23/06/2019,Inactive,No Salary,Inactive DR,No Bill,Inactive CC,0
+206612,PAKISTAN,59,9/02/2018,No Spends,No Salary,Inactive DR,Inactive Bill,No CC,1302.846452
+98149,UNITED ARAB EMIRATES,35,5/02/2021,Inactive,No Salary,Active DR,No Bill,No CC,0
+408795,INDIA,29,24/09/2017,Active,Salary with Bank,No DR,Active Bill,Inactive CC,0
+255786,INDIA,73,23/05/2019,No Spends,Salary with Bank,Active DR,Inactive Bill,Inactive CC,1179.834839
+9344,INDIA,38,26/07/2021,Active,No Salary,Inactive DR,Inactive Bill,Active CC,843.8622581
+235781,INDIA,76,20/08/2021,Active,Salary with Bank,No DR,Active Bill,Active CC,2612.245161
+63248,INDIA,48,1/10/2021,Active,Salary with Bank,Active DR,Inactive Bill,No CC,37.44
+209352,ETHOPIA,58,8/10/2019,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Active CC,9.677419355
+397087,INDIA,68,13/10/2018,No Spends,Salary with Other Bank,No DR,Inactive Bill,Active CC,3490.329355
+73464,PHILIPPINES,64,18/07/2020,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Active CC,32.47322581
+391959,PHILIPPINES,46,2/04/2021,Active,Salary with Other Bank,Active DR,No Bill,Active CC,47.76322581
+65339,INDIA,65,13/04/2018,Active,Salary with Other Bank,Inactive DR,No Bill,No CC,0
+24231,PHILIPPINES,21,22/06/2018,Inactive,Salary with Other Bank,Inactive DR,No Bill,No CC,41.23741935
+443104,INDIA,62,1/04/2021,No Spends,Salary with Bank,Inactive DR,No Bill,No CC,0
+243469,BANGLADESH,73,9/11/2021,No Spends,Salary with Bank,Inactive DR,No Bill,No CC,1106.542581
+208548,PAKISTAN,23,24/05/2017,No Spends,Salary with Bank,No DR,Active Bill,Active CC,0
+467360,EGYPT,53,12/06/2021,No Spends,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,0
+189973,INDIA,47,23/05/2021,Inactive,No Salary,No DR,No Bill,Active CC,0
+402660,OMAN,53,25/11/2018,Active,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,2.8
+360144,NEPAL,56,5/07/2020,Active,Salary with Other Bank,Active DR,Active Bill,Active CC,0
+445265,BANGLADESH,64,21/12/2020,Active,No Salary,Inactive DR,Active Bill,Active CC,58.87903226
+44015,UNITED ARAB EMIRATES,67,8/08/2019,No Spends,Salary with Bank,Inactive DR,No Bill,Active CC,0
+115827,YEMEN,59,12/09/2018,Inactive,Salary with Other Bank,Active DR,No Bill,No CC,3581.231613
+225396,BANGLADESH,77,30/03/2020,Inactive,No Salary,Active DR,Active Bill,Active CC,3536.471613
+459474,UNITED ARAB EMIRATES,73,26/02/2020,Active,No Salary,No DR,Inactive Bill,No CC,1.12
+450498,PHILIPPINES,26,22/12/2019,No Spends,No Salary,Active DR,Inactive Bill,Inactive CC,0
+405391,INDIA,37,6/02/2017,Active,No Salary,No DR,Active Bill,No CC,51802.31129
+496461,EGYPT,34,10/09/2018,Inactive,Salary with Other Bank,No DR,No Bill,No CC,0
+428943,INDIA,61,29/07/2020,Active,No Salary,No DR,No Bill,No CC,2348.844839
+177559,SRI LANKA,22,6/07/2021,No Spends,Salary with Bank,Active DR,Inactive Bill,Inactive CC,2691.614839
+87298,SYRIA,55,11/12/2021,Inactive,Salary with Other Bank,No DR,Active Bill,No CC,1828.452258
+2141,BANGLADESH,65,12/04/2017,Inactive,Salary with Bank,Active DR,Active Bill,Inactive CC,18.71064516
+2811,INDIA,76,30/03/2019,No Spends,Salary with Bank,Active DR,No Bill,Inactive CC,1.73
+236117,UNITED ARAB EMIRATES,53,3/07/2021,No Spends,No Salary,Inactive DR,Active Bill,Active CC,83.64064516
+405755,INDIA,45,7/05/2020,No Spends,Salary with Other Bank,Active DR,No Bill,Inactive CC,3.678064516
+114413,INDIA,22,27/06/2021,Inactive,Salary with Bank,Inactive DR,Active Bill,Active CC,2.957096774
+473747,INDIA,50,16/07/2019,No Spends,Salary with Bank,Active DR,No Bill,No CC,0
+281210,SRI LANKA,48,15/07/2020,Active,Salary with Bank,No DR,Active Bill,Inactive CC,0
+458985,INDIA,37,26/05/2017,Active,No Salary,Active DR,No Bill,No CC,0.78
+400208,UNITED ARAB EMIRATES,49,22/06/2019,No Spends,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,1.76
+168418,JORDAN,66,15/01/2022,Active,Salary with Other Bank,Active DR,Inactive Bill,No CC,0.35
+222515,PHILIPPINES,60,10/08/2019,Inactive,Salary with Other Bank,Active DR,Active Bill,Active CC,310.023871
+368823,PHILIPPINES,73,5/02/2020,No Spends,No Salary,Inactive DR,Inactive Bill,Active CC,0
+67751,INDIA,56,5/09/2021,Active,Salary with Other Bank,Active DR,Active Bill,Inactive CC,0
+395631,INDIA,38,24/06/2021,Inactive,Salary with Bank,No DR,Inactive Bill,Active CC,-0.75
+30654,INDIA,22,6/03/2022,Active,Salary with Bank,No DR,No Bill,Active CC,208.2516129
+412664,PHILIPPINES,23,2/03/2021,Active,Salary with Other Bank,Active DR,No Bill,Inactive CC,15.11064516
+259334,PHILIPPINES,42,10/03/2021,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+45734,JORDAN,76,30/01/2020,No Spends,Salary with Other Bank,No DR,Active Bill,Active CC,4017.307097
+294067,PAKISTAN,46,16/05/2019,No Spends,No Salary,Active DR,Active Bill,No CC,1.951935484
+46756,INDIA,75,18/01/2021,Active,Salary with Bank,No DR,Active Bill,Active CC,20116.20323
+208411,INDIA,48,2/11/2018,Active,Salary with Bank,No DR,Active Bill,Active CC,1889.830968
+51567,BANGLADESH,66,16/11/2018,No Spends,Salary with Bank,Active DR,Active Bill,Inactive CC,197.5574194
+343615,PAKISTAN,37,3/06/2017,Inactive,Salary with Other Bank,Active DR,Active Bill,No CC,0
+56224,INDIA,27,1/11/2017,No Spends,Salary with Other Bank,No DR,Inactive Bill,Active CC,253.2170968
+30647,PAKISTAN,29,30/08/2017,No Spends,Salary with Other Bank,No DR,No Bill,Active CC,0.98
+168666,INDIA,30,12/09/2021,No Spends,No Salary,No DR,Active Bill,Inactive CC,0
+45172,PHILIPPINES,70,1/06/2018,No Spends,No Salary,No DR,Active Bill,Inactive CC,0
+374255,INDIA,54,12/08/2017,Inactive,No Salary,Inactive DR,Inactive Bill,No CC,1581.128065
+253022,PAKISTAN,65,9/10/2017,No Spends,Salary with Other Bank,No DR,Active Bill,Inactive CC,0
+379513,EGYPT,46,17/10/2017,Inactive,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,5029.770645
+451279,INDIA,42,24/10/2021,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,2464.012581
+178807,INDIA,70,12/12/2021,No Spends,No Salary,Inactive DR,No Bill,Active CC,15.75
+359903,EGYPT,52,25/06/2019,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,0
+202569,EGYPT,25,7/04/2017,Inactive,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,711.5580645
+146381,INDIA,51,24/12/2020,No Spends,Salary with Other Bank,Active DR,No Bill,Active CC,2132.648065
+406877,INDIA,73,11/02/2020,Active,Salary with Other Bank,No DR,No Bill,No CC,1.421935484
+95249,PAKISTAN,50,15/03/2022,Inactive,Salary with Other Bank,No DR,Active Bill,No CC,53.45967742
+36733,INDIA,69,3/12/2017,No Spends,Salary with Bank,No DR,Active Bill,Inactive CC,3.94
+432004,INDIA,22,10/02/2020,No Spends,No Salary,Inactive DR,Inactive Bill,Active CC,2204.631613
+1010,PHILIPPINES,42,28/03/2017,No Spends,No Salary,No DR,No Bill,Active CC,0
+486000,PHILIPPINES,50,4/01/2018,Inactive,No Salary,Inactive DR,Active Bill,Inactive CC,177.3509677
+425847,PHILIPPINES,58,21/11/2017,Inactive,Salary with Other Bank,No DR,Active Bill,Active CC,0
+18871,INDIA,52,24/10/2019,No Spends,Salary with Other Bank,No DR,No Bill,No CC,82.25
+198459,PHILIPPINES,62,7/09/2018,No Spends,No Salary,No DR,No Bill,No CC,0
+302998,UNITED ARAB EMIRATES,55,12/12/2019,Inactive,Salary with Bank,Inactive DR,No Bill,No CC,0
+52079,UNITED ARAB EMIRATES,68,16/06/2020,Active,Salary with Bank,No DR,No Bill,Active CC,699.6819355
+406301,INDIA,74,15/10/2018,No Spends,No Salary,Active DR,Active Bill,No CC,16.5316129
+460540,INDIA,22,17/05/2017,Active,No Salary,No DR,Active Bill,No CC,485.6780645
+403589,SRI LANKA,72,17/11/2021,No Spends,Salary with Bank,Inactive DR,No Bill,No CC,607.4396774
+449414,INDIA,45,8/11/2019,Inactive,Salary with Bank,No DR,Inactive Bill,Inactive CC,0
+311730,PAKISTAN,68,1/05/2019,No Spends,Salary with Bank,Active DR,Inactive Bill,No CC,0
+130169,INDIA,39,7/06/2019,Active,No Salary,Inactive DR,No Bill,Active CC,2476.956774
+231498,SUDAN,26,27/05/2017,Active,Salary with Bank,No DR,No Bill,Inactive CC,227.6906452
+116505,INDIA,40,20/01/2019,Inactive,No Salary,Inactive DR,Active Bill,Inactive CC,19748.24581
+343241,PAKISTAN,71,31/07/2020,Inactive,Salary with Bank,Active DR,Active Bill,Active CC,53.00741935
+132084,PAKISTAN,43,7/12/2021,Active,Salary with Bank,Active DR,No Bill,Active CC,1062.504839
+306970,PHILIPPINES,50,7/12/2021,Inactive,Salary with Other Bank,No DR,Active Bill,Active CC,0
+186384,INDIA,75,21/08/2021,Active,Salary with Bank,No DR,Inactive Bill,No CC,62.9416129
+417627,INDIA,49,3/04/2021,Inactive,Salary with Other Bank,Inactive DR,Active Bill,Active CC,0
+378241,INDIA,71,29/06/2019,Active,Salary with Bank,Active DR,Inactive Bill,No CC,314.3551613
+219018,INDIA,31,22/09/2017,No Spends,Salary with Bank,No DR,Inactive Bill,No CC,0
+497568,JORDAN,22,19/02/2018,Inactive,Salary with Other Bank,No DR,Active Bill,Inactive CC,136.9119355
+35510,BANGLADESH,44,3/05/2021,No Spends,Salary with Other Bank,No DR,No Bill,Active CC,0.96
+391272,INDIA,32,3/08/2017,No Spends,Salary with Bank,Inactive DR,Inactive Bill,No CC,35625.4
+110876,UNITED ARAB EMIRATES,69,9/01/2018,Active,No Salary,Active DR,Active Bill,Inactive CC,157.6219355
+375776,PHILIPPINES,72,2/03/2021,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,0.058064516
+26704,REPUBLIC OF SERBIA,45,12/07/2019,Active,No Salary,No DR,No Bill,Active CC,582.5041935
+184526,SAUDI ARABIA,31,30/09/2019,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+489293,INDONESIA,33,24/07/2017,Active,Salary with Other Bank,Active DR,Active Bill,Active CC,3288.077742
+323318,INDIA,44,13/10/2020,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,0
+174663,UGANDA,51,25/08/2021,Inactive,Salary with Bank,Active DR,No Bill,No CC,2289.674839
+353390,UNITED ARAB EMIRATES,61,25/03/2022,Inactive,Salary with Bank,Active DR,Active Bill,Inactive CC,410.8219355
+61746,INDIA,35,20/10/2019,Inactive,Salary with Other Bank,Active DR,Active Bill,Inactive CC,306.5693548
+233316,BULGARIA,55,28/01/2022,No Spends,No Salary,No DR,No Bill,Inactive CC,1298.489677
+465733,INDIA,23,23/09/2020,No Spends,No Salary,Inactive DR,Inactive Bill,No CC,0
+189196,INDIA,38,1/11/2021,No Spends,Salary with Bank,Inactive DR,No Bill,Inactive CC,37018.85355
+184966,EGYPT,21,11/04/2019,Inactive,No Salary,Inactive DR,Inactive Bill,Active CC,4.75
+397791,INDIA,39,5/06/2019,Inactive,Salary with Bank,Inactive DR,No Bill,Inactive CC,36.68290323
+138560,INDIA,58,18/08/2019,Inactive,Salary with Other Bank,Active DR,Active Bill,Active CC,0
+292752,INDIA,73,23/05/2019,Inactive,Salary with Other Bank,Active DR,No Bill,Inactive CC,4650.4
+19212,TANZANIA,66,13/04/2019,Inactive,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,2.13
+135583,PHILIPPINES,67,24/10/2020,Active,Salary with Bank,No DR,No Bill,Active CC,494.2522581
+231278,INDIA,42,20/03/2021,No Spends,Salary with Bank,Inactive DR,Active Bill,Active CC,0
+265067,NEPAL,72,15/04/2017,Inactive,Salary with Other Bank,No DR,No Bill,Active CC,1054.325806
+490127,PHILIPPINES,66,27/04/2018,Inactive,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,0
+331562,PHILIPPINES,62,15/12/2017,Inactive,Salary with Bank,Active DR,Active Bill,Active CC,235.0848387
+333686,CAMEROON,28,14/03/2021,Inactive,Salary with Other Bank,Active DR,No Bill,Active CC,14.67
+310056,PHILIPPINES,37,5/03/2021,Inactive,Salary with Bank,Inactive DR,No Bill,Active CC,0
+48936,INDIA,54,22/05/2021,Inactive,Salary with Bank,No DR,Inactive Bill,Active CC,0
+74085,PHILIPPINES,38,2/02/2018,Active,No Salary,Inactive DR,Inactive Bill,No CC,0
+245205,PAKISTAN,29,31/03/2022,Inactive,Salary with Other Bank,No DR,Active Bill,No CC,0
+53737,PAKISTAN,35,6/04/2021,No Spends,Salary with Bank,No DR,Inactive Bill,Inactive CC,96.77
+160894,PAKISTAN,46,25/04/2019,No Spends,Salary with Bank,Active DR,Inactive Bill,Active CC,0
+392529,INDIA,49,20/10/2018,Inactive,Salary with Other Bank,Active DR,Active Bill,Active CC,8384.756452
+363863,SRI LANKA,48,1/09/2019,Inactive,Salary with Bank,No DR,Active Bill,No CC,0
+150550,INDIA,41,10/03/2018,No Spends,Salary with Bank,Inactive DR,Active Bill,Active CC,0
+495901,ETHOPIA,54,26/05/2019,Active,Salary with Other Bank,No DR,No Bill,Active CC,19500
+284507,INDIA,32,25/03/2020,Inactive,Salary with Bank,Active DR,Inactive Bill,No CC,0
+314002,INDIA,45,21/11/2020,Active,Salary with Bank,No DR,Inactive Bill,Active CC,0
+112227,PAKISTAN,41,11/10/2021,Inactive,Salary with Bank,No DR,No Bill,No CC,0
+235004,INDIA,69,3/11/2017,No Spends,No Salary,Inactive DR,Active Bill,Active CC,141031.9526
+260427,INDIA,51,26/07/2020,No Spends,Salary with Bank,Inactive DR,Inactive Bill,Active CC,2982.916452
+167231,INDIA,54,25/03/2020,Active,Salary with Other Bank,Active DR,No Bill,No CC,65.84032258
+378509,PHILIPPINES,42,16/04/2021,Active,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,8949.773226
+424565,PHILIPPINES,28,31/12/2020,Inactive,Salary with Bank,Active DR,No Bill,Inactive CC,10.59032258
+136620,INDIA,77,3/09/2020,Active,No Salary,Inactive DR,Inactive Bill,Active CC,0
+310779,INDIA,48,19/10/2017,Inactive,No Salary,No DR,Active Bill,No CC,0
+328933,PHILIPPINES,37,6/03/2018,Active,No Salary,Inactive DR,Inactive Bill,No CC,679.6370968
+135437,PHILIPPINES,38,1/07/2021,Inactive,Salary with Bank,No DR,No Bill,Active CC,728.2145161
+337844,PHILIPPINES,63,26/05/2019,Active,No Salary,No DR,No Bill,No CC,13.4483871
+206471,INDIA,72,9/06/2017,Active,Salary with Bank,Active DR,No Bill,Active CC,19119.44161
+499963,NETHERLANDS,73,24/11/2018,No Spends,Salary with Bank,Active DR,Inactive Bill,Inactive CC,0
+271169,PAKISTAN,36,23/10/2019,Inactive,No Salary,No DR,Active Bill,Active CC,7480.060968
+176745,PAKISTAN,42,24/01/2018,Active,Salary with Bank,Inactive DR,Active Bill,Inactive CC,0
+274900,INDIA,67,24/01/2019,Inactive,Salary with Bank,Active DR,Active Bill,Active CC,3464.072903
+487805,PHILIPPINES,46,18/01/2018,Active,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,0
+230858,EGYPT,71,30/08/2021,No Spends,Salary with Other Bank,Inactive DR,Active Bill,No CC,25533.33355
+282751,PHILIPPINES,37,20/03/2019,Inactive,Salary with Other Bank,Active DR,No Bill,Active CC,3177.606452
+310918,CHINA,57,2/01/2021,No Spends,No Salary,No DR,Active Bill,No CC,12004.90516
+364892,PALESTINE,31,21/01/2022,No Spends,No Salary,No DR,Active Bill,Inactive CC,103.07
+233437,INDIA,43,16/08/2020,No Spends,Salary with Other Bank,Active DR,No Bill,Active CC,0
+378019,PHILIPPINES,71,11/02/2019,Active,No Salary,Active DR,No Bill,Active CC,13.45193548
+428850,INDIA,27,20/12/2017,Active,Salary with Other Bank,Inactive DR,Active Bill,No CC,0
+46930,INDIA,34,20/01/2018,No Spends,Salary with Other Bank,Inactive DR,No Bill,No CC,0
+218888,EGYPT,55,15/03/2017,Inactive,Salary with Other Bank,No DR,Active Bill,Inactive CC,165.28
+400229,AFGHANISTAN,54,2/12/2017,Active,Salary with Bank,No DR,Inactive Bill,Active CC,2.42
+179071,PAKISTAN,34,22/06/2019,No Spends,No Salary,Inactive DR,No Bill,Inactive CC,0
+68103,INDIA,70,3/04/2019,Active,No Salary,Inactive DR,Active Bill,No CC,3209.722581
+498474,INDIA,41,15/12/2018,Inactive,Salary with Bank,Active DR,Active Bill,Inactive CC,0
+433904,NEPAL,39,14/09/2017,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+31860,PAKISTAN,35,5/01/2020,Active,Salary with Bank,Active DR,Active Bill,Active CC,723.9248387
+26205,UNITED ARAB EMIRATES,21,30/05/2018,Active,Salary with Other Bank,No DR,No Bill,Active CC,1332.324194
+50656,INDIA,74,19/12/2020,Inactive,Salary with Bank,Inactive DR,Active Bill,No CC,0
+55341,INDIA,77,12/04/2019,Active,Salary with Bank,Inactive DR,Active Bill,Active CC,0
+375697,IRAQ,57,24/09/2018,Active,No Salary,No DR,Inactive Bill,Active CC,1677.159032
+110297,PAKISTAN,47,3/04/2019,Inactive,Salary with Bank,No DR,No Bill,Inactive CC,530.0274194
+284262,ZIMBABWE,53,9/04/2019,Active,Salary with Bank,Active DR,No Bill,Inactive CC,0
+315788,PAKISTAN,70,20/12/2018,No Spends,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,1615.467419
+68791,LEBANON,41,19/05/2018,No Spends,Salary with Other Bank,Active DR,Active Bill,Active CC,86558.79032
+358717,PHILIPPINES,58,10/09/2018,No Spends,No Salary,Inactive DR,No Bill,No CC,475.6319355
+203499,INDIA,41,19/04/2021,Active,No Salary,Inactive DR,Inactive Bill,Inactive CC,0
+115069,INDIA,50,26/07/2018,Inactive,No Salary,No DR,Inactive Bill,No CC,50
+468507,EGYPT,32,11/03/2018,No Spends,Salary with Bank,Active DR,Inactive Bill,Inactive CC,130.5867742
+188099,PHILIPPINES,30,3/04/2018,No Spends,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,6569.666774
+323867,BANGLADESH,66,5/09/2018,Inactive,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,498.0203226
+437486,INDIA,72,28/02/2019,No Spends,Salary with Other Bank,Active DR,No Bill,Inactive CC,979.976129
+352036,UNITED ARAB EMIRATES,69,27/01/2022,Active,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,355.6970968
+236639,PAKISTAN,42,16/05/2017,Active,Salary with Other Bank,No DR,Active Bill,Inactive CC,31322.18452
+29171,PAKISTAN,28,15/03/2022,No Spends,Salary with Other Bank,Active DR,No Bill,Active CC,695.07
+194813,PAKISTAN,46,16/02/2020,Inactive,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,0
+211676,CAMEROON,68,8/02/2019,Inactive,Salary with Other Bank,Active DR,Inactive Bill,No CC,41.13032258
+147374,PAKISTAN,75,25/09/2017,No Spends,Salary with Other Bank,No DR,Inactive Bill,No CC,3103.688065
+31171,PHILIPPINES,46,26/11/2020,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,1.21
+103760,PAKISTAN,26,10/04/2017,No Spends,No Salary,Inactive DR,Inactive Bill,No CC,118.54
+390119,SRI LANKA,46,14/03/2018,Inactive,No Salary,No DR,No Bill,No CC,0
+232891,INDIA,52,6/04/2017,No Spends,Salary with Other Bank,No DR,Inactive Bill,No CC,0
+287645,INDIA,27,12/06/2017,Active,No Salary,Inactive DR,Active Bill,Inactive CC,15973.73839
+336473,PALESTINE,26,30/09/2018,No Spends,No Salary,No DR,Active Bill,Inactive CC,0
+401316,UGANDA,44,24/01/2019,No Spends,No Salary,Inactive DR,Active Bill,Active CC,0.702580645
+73780,RUSSIAN FEDERATION,59,17/07/2019,Inactive,Salary with Bank,No DR,Inactive Bill,Inactive CC,0
+151949,KENYA,25,24/03/2018,No Spends,Salary with Other Bank,Inactive DR,No Bill,No CC,0
+186875,INDIA,69,18/02/2021,Active,Salary with Bank,No DR,No Bill,Active CC,0
+152111,CZECH REPUBLIC,66,6/01/2019,No Spends,No Salary,Active DR,No Bill,Inactive CC,20182.81806
+90960,PHILIPPINES,60,25/09/2021,No Spends,Salary with Other Bank,Inactive DR,No Bill,Active CC,5.66
+354736,INDIA,77,24/05/2017,No Spends,No Salary,No DR,Active Bill,No CC,3167.430323
+176881,PHILIPPINES,53,23/02/2018,Active,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,0
+103435,INDIA,31,12/09/2021,Active,No Salary,Inactive DR,Inactive Bill,Active CC,431.26
+426104,INDIA,40,13/04/2017,Inactive,Salary with Bank,Active DR,Active Bill,No CC,0
+34195,BANGLADESH,72,13/05/2020,No Spends,Salary with Other Bank,No DR,No Bill,Active CC,3927.076452
+357791,PAKISTAN,44,27/03/2022,No Spends,No Salary,No DR,Active Bill,Inactive CC,2370.75
+439725,INDIA,35,24/03/2017,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,44.54645161
+455304,INDIA,24,15/01/2018,No Spends,No Salary,Inactive DR,Inactive Bill,Active CC,784.6790323
+341447,INDIA,70,10/08/2018,Active,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,0
+106051,INDIA,61,10/04/2021,Active,Salary with Bank,Active DR,Inactive Bill,Active CC,10.5
+213814,INDIA,25,31/05/2020,Active,No Salary,Inactive DR,Inactive Bill,Active CC,0
+161053,PHILIPPINES,53,20/01/2022,Active,Salary with Other Bank,Active DR,Active Bill,No CC,1215.904839
+311622,INDIA,44,6/10/2020,Active,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,0
+52190,PAKISTAN,68,23/09/2019,No Spends,Salary with Other Bank,No DR,Active Bill,Inactive CC,0
+396624,INDIA,54,11/02/2020,Inactive,Salary with Other Bank,Active DR,No Bill,No CC,0
+353699,SRI LANKA,36,26/06/2019,Active,No Salary,No DR,No Bill,Active CC,0
+230300,SRI LANKA,39,20/10/2018,No Spends,Salary with Bank,Active DR,Active Bill,Active CC,10619.36
+171319,INDIA,34,25/06/2021,Inactive,Salary with Bank,Inactive DR,Active Bill,Active CC,108.6622581
+353987,SRI LANKA,64,9/10/2017,No Spends,No Salary,Inactive DR,Inactive Bill,Active CC,554.3109677
+364335,FRANCE,27,31/03/2017,Active,Salary with Other Bank,Active DR,Active Bill,No CC,5161.634839
+114834,PHILIPPINES,66,24/03/2018,No Spends,Salary with Bank,Active DR,Inactive Bill,Inactive CC,4620.606774
+149727,PAKISTAN,39,7/12/2021,No Spends,Salary with Bank,No DR,No Bill,Inactive CC,0
+350419,SOUTH AFRICA,25,9/09/2020,No Spends,Salary with Bank,No DR,Active Bill,No CC,12301.32452
+225271,PHILIPPINES,63,18/07/2020,Inactive,No Salary,Active DR,Active Bill,Active CC,0
+77204,INDIA,44,18/08/2019,Inactive,Salary with Other Bank,No DR,Active Bill,No CC,738.563871
+153682,INDIA,64,13/04/2017,Inactive,No Salary,Inactive DR,No Bill,Inactive CC,6753.879355
+268686,PHILIPPINES,40,27/09/2018,No Spends,No Salary,Active DR,Inactive Bill,Inactive CC,4.75
+336895,INDIA,28,11/10/2017,Inactive,No Salary,Active DR,Active Bill,Inactive CC,436.7106452
+373226,PHILIPPINES,46,17/11/2020,No Spends,No Salary,No DR,Inactive Bill,Inactive CC,0
+216829,SRI LANKA,22,3/04/2017,No Spends,No Salary,No DR,Inactive Bill,Active CC,8199.471613
+463140,INDIA,37,26/04/2019,Inactive,Salary with Bank,No DR,No Bill,No CC,2920.512258
+279668,INDIA,55,8/10/2020,Inactive,Salary with Bank,No DR,Inactive Bill,No CC,2425.368387
+406928,INDIA,33,28/03/2018,Inactive,Salary with Bank,Inactive DR,Inactive Bill,Active CC,1.31
+132107,EGYPT,48,31/05/2019,Active,No Salary,No DR,No Bill,Inactive CC,857.7793548
+343698,EGYPT,28,17/12/2017,Inactive,Salary with Other Bank,Active DR,No Bill,Active CC,0
+491201,INDIA,35,10/04/2018,No Spends,Salary with Bank,Active DR,Inactive Bill,No CC,620.6258065
+16025,UNITED ARAB EMIRATES,27,3/01/2018,Active,No Salary,No DR,Active Bill,Active CC,0
+227662,PHILIPPINES,52,18/08/2018,Active,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,0
+59527,PHILIPPINES,34,3/09/2021,No Spends,No Salary,Active DR,Active Bill,Active CC,955.4709677
+283971,PHILIPPINES,53,22/07/2021,Inactive,Salary with Bank,Active DR,No Bill,Active CC,0
+63797,PAKISTAN,55,27/08/2021,No Spends,No Salary,Inactive DR,Active Bill,Active CC,0
+289341,INDIA,33,25/05/2021,Active,Salary with Other Bank,No DR,No Bill,Inactive CC,90.74709677
+448495,PHILIPPINES,47,11/03/2021,No Spends,Salary with Bank,Active DR,Inactive Bill,Active CC,270.0135484
+244602,PHILIPPINES,46,31/10/2021,Inactive,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+91441,INDIA,65,3/10/2019,No Spends,No Salary,Active DR,Active Bill,No CC,0
+385537,VIETNAM,36,15/07/2020,Inactive,Salary with Other Bank,Active DR,No Bill,Inactive CC,0
+207817,PAKISTAN,64,23/03/2019,Inactive,Salary with Other Bank,No DR,No Bill,Active CC,0
+50802,SOUTH AFRICA,73,4/02/2018,Inactive,Salary with Bank,Active DR,Active Bill,Inactive CC,0
+279887,INDIA,38,2/08/2017,Active,Salary with Bank,Inactive DR,No Bill,No CC,0
+359613,INDIA,54,23/05/2019,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Active CC,0
+475173,NEPAL,77,24/07/2018,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Active CC,0
+279603,PAKISTAN,71,22/02/2019,No Spends,Salary with Bank,No DR,Inactive Bill,Active CC,72722.62806
+327396,INDIA,50,4/09/2017,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,0
+374455,INDIA,60,26/05/2018,Inactive,No Salary,No DR,No Bill,Active CC,0
+17203,INDIA,70,13/09/2021,No Spends,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,5.19
+95894,PAKISTAN,41,30/05/2021,Inactive,Salary with Bank,Inactive DR,No Bill,No CC,0
+384765,PHILIPPINES,52,3/09/2020,No Spends,No Salary,No DR,Active Bill,No CC,0
+422592,PHILIPPINES,43,9/10/2018,Inactive,Salary with Bank,Inactive DR,No Bill,Active CC,1840.010968
+415012,INDIA,75,24/01/2021,Inactive,No Salary,No DR,No Bill,Active CC,422.9451613
+411183,PHILIPPINES,63,26/03/2019,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,0
+83196,PAKISTAN,42,16/09/2019,Inactive,No Salary,No DR,Inactive Bill,Inactive CC,0
+378867,PHILIPPINES,21,11/11/2018,No Spends,Salary with Other Bank,Active DR,Inactive Bill,Active CC,0
+196252,PAKISTAN,54,5/03/2021,Inactive,No Salary,No DR,No Bill,Active CC,3743.204194
+88507,SRI LANKA,22,10/05/2018,Inactive,No Salary,Inactive DR,No Bill,Active CC,424.8416129
+114730,JORDAN,52,14/10/2019,Inactive,Salary with Bank,Active DR,Inactive Bill,Inactive CC,3000.15
+265347,INDIA,37,17/12/2017,No Spends,Salary with Bank,No DR,Active Bill,Inactive CC,17.37
+231584,CAMEROON,41,17/05/2018,Inactive,Salary with Bank,Inactive DR,Active Bill,Inactive CC,0
+174324,PAKISTAN,65,27/09/2018,Inactive,Salary with Bank,No DR,No Bill,No CC,0
+445929,INDIA,46,7/04/2020,No Spends,Salary with Other Bank,Active DR,No Bill,Inactive CC,740.4022581
+73889,INDIA,39,6/01/2018,No Spends,Salary with Other Bank,Active DR,No Bill,Inactive CC,0
+481557,NEPAL,53,18/04/2017,Active,No Salary,Active DR,No Bill,No CC,0
+17933,BELGIUM,29,28/11/2019,No Spends,No Salary,Active DR,No Bill,No CC,1001.881613
+75455,IRAN,28,30/01/2021,Active,Salary with Bank,Inactive DR,No Bill,Active CC,0
+365265,INDIA,56,11/08/2021,Active,Salary with Bank,No DR,Active Bill,Active CC,0
+159709,INDIA,36,14/05/2017,No Spends,Salary with Other Bank,No DR,No Bill,No CC,0
+43510,PAKISTAN,58,10/07/2018,Active,Salary with Bank,Inactive DR,No Bill,Active CC,0
+306635,TUNISIA,62,25/11/2018,Inactive,Salary with Other Bank,Active DR,No Bill,No CC,10.50903226
+96463,SUDAN,58,31/05/2018,Active,Salary with Bank,Inactive DR,Inactive Bill,No CC,1.543548387
+204344,PAKISTAN,28,15/08/2019,No Spends,No Salary,Inactive DR,Active Bill,Inactive CC,0
+391062,PHILIPPINES,49,3/02/2020,Inactive,No Salary,No DR,Active Bill,Inactive CC,0
+136324,UNITED ARAB EMIRATES,34,23/01/2020,No Spends,No Salary,Inactive DR,Active Bill,Inactive CC,2706.715161
+208771,INDIA,23,29/05/2021,Inactive,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,142.1625806
+235593,SRI LANKA,77,6/04/2021,Active,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,15.75
+279040,PHILIPPINES,36,22/09/2020,No Spends,Salary with Other Bank,No DR,No Bill,Active CC,544.2790323
+35993,INDIA,44,3/12/2021,Inactive,No Salary,Inactive DR,Active Bill,No CC,8.91
+349704,PAKISTAN,74,25/03/2020,No Spends,No Salary,Inactive DR,No Bill,Inactive CC,0
+214762,PHILIPPINES,32,3/12/2019,Inactive,No Salary,No DR,Inactive Bill,Active CC,2099.96871
+123831,INDIA,50,13/03/2017,Inactive,Salary with Bank,No DR,Active Bill,Inactive CC,1626.549677
+171086,PAKISTAN,77,25/01/2020,Inactive,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,0
+114929,PHILIPPINES,73,8/04/2021,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,10.5
+130854,PAKISTAN,34,2/09/2019,Active,Salary with Bank,Active DR,Active Bill,Active CC,3.354193548
+300785,INDIA,55,30/10/2019,Active,Salary with Bank,No DR,Active Bill,No CC,454.203871
+239275,SYRIA,64,5/09/2021,No Spends,Salary with Bank,No DR,Active Bill,No CC,6.14
+105069,INDIA,45,4/01/2022,No Spends,Salary with Bank,No DR,Active Bill,Inactive CC,409.593871
+305737,INDIA,39,23/08/2019,Active,No Salary,Active DR,Active Bill,Active CC,0
+33617,INDIA,50,10/01/2019,Active,Salary with Bank,No DR,Active Bill,Inactive CC,0
+185899,BANGLADESH,56,15/01/2019,Active,Salary with Bank,No DR,No Bill,No CC,213.6722581
+407201,INDIA,63,1/02/2020,No Spends,Salary with Other Bank,Active DR,Inactive Bill,No CC,0
+464774,EGYPT,31,6/07/2018,Active,Salary with Bank,Active DR,Active Bill,No CC,0
+187971,PHILIPPINES,54,28/01/2020,Active,Salary with Other Bank,No DR,Active Bill,Inactive CC,0
+81757,PAKISTAN,49,15/03/2018,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,2517.944516
+159117,INDIA,26,16/05/2019,Active,Salary with Bank,No DR,Active Bill,No CC,596.3522581
+412273,PHILIPPINES,67,20/06/2017,Inactive,No Salary,Inactive DR,Inactive Bill,No CC,0
+98926,EGYPT,45,16/08/2020,Active,No Salary,Active DR,No Bill,Active CC,279.9403226
+162793,PHILIPPINES,42,1/03/2018,No Spends,No Salary,Active DR,No Bill,No CC,0
+454827,PHILIPPINES,61,12/04/2017,No Spends,Salary with Bank,No DR,No Bill,Active CC,0
+346664,INDIA,66,21/06/2020,Inactive,No Salary,No DR,Active Bill,Active CC,202500.5497
+323517,UNITED ARAB EMIRATES,74,25/04/2019,No Spends,Salary with Bank,No DR,Inactive Bill,No CC,663.8151613
+267204,INDIA,63,4/10/2021,Inactive,Salary with Bank,No DR,Inactive Bill,Active CC,461.9654839
+222680,BANGLADESH,37,20/07/2018,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,8.75
+437209,BANGLADESH,42,1/04/2020,No Spends,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+366098,PHILIPPINES,75,30/09/2018,Inactive,No Salary,No DR,Active Bill,Inactive CC,412.4893548
+359387,PHILIPPINES,34,12/02/2022,Active,Salary with Bank,No DR,Inactive Bill,No CC,0
+47314,PHILIPPINES,70,30/04/2017,Active,Salary with Other Bank,No DR,Active Bill,Inactive CC,0
+371868,PHILIPPINES,74,2/10/2020,No Spends,Salary with Other Bank,Active DR,Active Bill,Inactive CC,0
+139934,PHILIPPINES,73,5/02/2018,Active,No Salary,Active DR,No Bill,No CC,0
+336209,UNITED ARAB EMIRATES,33,31/12/2020,Inactive,No Salary,Active DR,No Bill,Active CC,558.0670968
+246610,YEMEN,21,5/11/2021,Active,No Salary,Inactive DR,No Bill,Active CC,4738.10871
+481474,PHILIPPINES,30,15/06/2019,No Spends,No Salary,Active DR,Active Bill,No CC,557.8625806
+347554,UNITED ARAB EMIRATES,55,23/06/2019,No Spends,No Salary,No DR,Inactive Bill,Inactive CC,8226.181935
+438184,MOROCCO,46,6/10/2017,Active,Salary with Bank,No DR,No Bill,No CC,0
+33893,PAKISTAN,61,8/11/2021,Active,No Salary,Active DR,Active Bill,Active CC,3424.286452
+213852,PHILIPPINES,52,22/08/2019,Active,No Salary,Active DR,No Bill,Active CC,3426.422258
+486829,UGANDA,43,31/08/2017,No Spends,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,0
+452551,EGYPT,27,23/02/2017,No Spends,Salary with Bank,No DR,No Bill,Inactive CC,0
+371421,INDIA,76,8/02/2021,Active,Salary with Bank,No DR,Active Bill,No CC,167.5796774
+412999,FRANCE,43,30/08/2018,Inactive,No Salary,Active DR,No Bill,Active CC,6.343870968
+146787,PHILIPPINES,61,20/02/2020,Active,Salary with Bank,Active DR,Inactive Bill,No CC,1352.026452
+372399,PALESTINE,61,22/02/2020,Inactive,No Salary,No DR,No Bill,Active CC,1222.57129
+88487,PAKISTAN,36,16/04/2018,No Spends,Salary with Other Bank,Active DR,Inactive Bill,No CC,87.76129032
+329867,PHILIPPINES,58,14/03/2020,Active,No Salary,Active DR,Active Bill,Inactive CC,0
+244538,PHILIPPINES,60,18/07/2021,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Active CC,0
+55015,PAKISTAN,27,12/12/2017,Inactive,No Salary,No DR,Inactive Bill,Inactive CC,1.87
+2310,ZIMBABWE,49,14/05/2021,Inactive,Salary with Other Bank,No DR,No Bill,No CC,901.8745161
+64957,PAKISTAN,52,31/10/2019,Inactive,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,0
+167664,PHILIPPINES,61,17/11/2020,Inactive,Salary with Other Bank,Active DR,Active Bill,Active CC,4.664516129
+444524,PHILIPPINES,48,26/05/2017,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,1523.734194
+158841,PHILIPPINES,62,11/11/2017,Active,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,3269.340323
+467802,PHILIPPINES,40,23/03/2019,Inactive,Salary with Bank,Active DR,Active Bill,Active CC,1834.584516
+268381,INDIA,66,17/08/2017,Active,Salary with Other Bank,Active DR,Inactive Bill,No CC,10110.87355
+126038,BANGLADESH,43,8/07/2019,Inactive,No Salary,Active DR,Active Bill,No CC,132.5451613
+68139,INDIA,37,5/09/2017,No Spends,No Salary,Inactive DR,Active Bill,Inactive CC,2194.91
+411913,PHILIPPINES,41,15/11/2018,Inactive,No Salary,Inactive DR,No Bill,Active CC,670.8406452
+22585,INDIA,50,10/07/2020,Active,No Salary,No DR,Inactive Bill,Active CC,1584.868065
+227722,SAUDI ARABIA,74,24/05/2019,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,No CC,1.04
+445273,UNITED ARAB EMIRATES,35,23/05/2021,No Spends,Salary with Bank,No DR,No Bill,No CC,68.46612903
+96857,PHILIPPINES,75,30/08/2017,No Spends,No Salary,Active DR,Active Bill,Active CC,141.6129032
+444055,INDIA,44,19/06/2020,No Spends,Salary with Other Bank,Inactive DR,No Bill,No CC,366.1187097
+406964,INDIA,65,14/12/2019,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,8453.676129
+79503,PAKISTAN,35,28/12/2019,No Spends,Salary with Bank,Inactive DR,No Bill,Inactive CC,0
+471267,INDIA,53,6/05/2020,Active,Salary with Other Bank,Active DR,No Bill,No CC,11385.69742
+368887,SRI LANKA,66,30/01/2020,Inactive,Salary with Other Bank,No DR,Inactive Bill,No CC,11.95612903
+319724,PAKISTAN,44,20/11/2019,Inactive,No Salary,Active DR,Active Bill,Inactive CC,0
+346179,PHILIPPINES,49,29/12/2020,Active,No Salary,No DR,Inactive Bill,Active CC,2015.755484
+303746,UNITED ARAB EMIRATES,41,3/08/2018,No Spends,Salary with Bank,Active DR,No Bill,Inactive CC,0.64
+170236,INDIA,23,16/09/2018,Active,Salary with Other Bank,Active DR,Active Bill,No CC,0
+452577,TOGO REPUBLIC,59,6/08/2017,Inactive,Salary with Bank,Active DR,Inactive Bill,No CC,0
+421220,INDIA,35,28/02/2021,Inactive,Salary with Other Bank,Active DR,Inactive Bill,No CC,21.52935484
+459661,INDIA,57,29/08/2020,Inactive,Salary with Other Bank,Inactive DR,No Bill,Active CC,4.66
+1129,PHILIPPINES,27,12/11/2017,No Spends,Salary with Other Bank,Active DR,No Bill,Inactive CC,4472.803548
+301745,INDIA,45,24/07/2017,Active,Salary with Other Bank,Active DR,Inactive Bill,Active CC,0
+442466,INDIA,48,30/12/2021,Active,Salary with Bank,Inactive DR,No Bill,No CC,0
+153883,PAKISTAN,56,13/07/2021,Active,Salary with Bank,Inactive DR,Inactive Bill,No CC,0
+57241,SAUDI ARABIA,51,28/06/2017,Active,No Salary,No DR,No Bill,No CC,0
+4105,INDIA,63,17/11/2019,No Spends,Salary with Bank,Inactive DR,Active Bill,Active CC,436.1741935
+410423,INDIA,51,8/12/2021,Inactive,No Salary,Active DR,Active Bill,Active CC,0
+413382,PHILIPPINES,42,28/09/2020,No Spends,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,0
+13967,LEBANON,62,2/06/2017,No Spends,No Salary,Inactive DR,Active Bill,Inactive CC,802.78
+72091,PHILIPPINES,56,8/05/2021,No Spends,Salary with Other Bank,No DR,Active Bill,Inactive CC,0
+2429,INDIA,21,25/08/2018,No Spends,No Salary,Active DR,Inactive Bill,No CC,125.8877419
+353494,PAKISTAN,72,15/10/2021,Active,Salary with Other Bank,Active DR,No Bill,Inactive CC,12363.59839
+308196,INDIA,77,30/01/2018,Active,No Salary,Inactive DR,No Bill,Active CC,0
+344588,INDIA,56,24/01/2018,Inactive,No Salary,No DR,No Bill,Active CC,5209.242258
+338797,INDIA,70,24/12/2021,Active,Salary with Bank,Active DR,No Bill,No CC,700.7735484
+78568,IRELAND,57,14/01/2018,Inactive,Salary with Other Bank,No DR,Inactive Bill,Active CC,0.5
+340413,JORDAN,44,31/10/2020,No Spends,Salary with Other Bank,No DR,Active Bill,Inactive CC,10921.59226
+327766,INDIA,62,19/04/2021,Inactive,No Salary,No DR,Active Bill,No CC,0
+219514,UNITED ARAB EMIRATES,33,13/07/2021,Inactive,No Salary,No DR,Inactive Bill,No CC,0
+492604,EGYPT,59,5/12/2021,No Spends,Salary with Bank,No DR,No Bill,Active CC,0
+335932,INDIA,70,3/02/2019,No Spends,Salary with Other Bank,Active DR,Inactive Bill,Active CC,33.31032258
+104265,EGYPT,36,5/10/2020,No Spends,Salary with Bank,No DR,Inactive Bill,Active CC,0
+30090,PHILIPPINES,46,18/11/2019,Active,No Salary,Active DR,Inactive Bill,No CC,0.88
+282478,PAKISTAN,51,12/03/2022,Active,Salary with Bank,Active DR,No Bill,No CC,127.5283871
+94874,INDIA,72,22/06/2018,No Spends,Salary with Other Bank,Inactive DR,Active Bill,No CC,0.64516129
+54825,INDIA,39,19/07/2019,No Spends,No Salary,No DR,No Bill,No CC,695.3596774
+212983,EGYPT,62,19/08/2020,Active,No Salary,Inactive DR,No Bill,Active CC,0
+223373,INDIA,34,8/04/2017,Active,Salary with Other Bank,Inactive DR,Active Bill,Active CC,0
+111917,PAKISTAN,64,21/03/2019,Inactive,Salary with Bank,No DR,Inactive Bill,Active CC,0
+449950,NETHERLANDS,50,16/06/2020,Inactive,Salary with Bank,Inactive DR,No Bill,Active CC,1.253225806
+208376,INDIA,27,11/04/2019,Inactive,No Salary,No DR,Active Bill,No CC,0
+141431,INDIA,67,29/12/2017,No Spends,Salary with Other Bank,No DR,Active Bill,No CC,195197.0039
+230258,INDIA,64,9/10/2017,Inactive,Salary with Other Bank,No DR,Active Bill,No CC,5.901612903
+450267,UNITED STATES,34,31/01/2020,No Spends,Salary with Bank,Inactive DR,Inactive Bill,No CC,17.15516129
+370202,EGYPT,75,2/06/2019,Inactive,Salary with Bank,Inactive DR,Active Bill,Inactive CC,-2
+336061,PHILIPPINES,42,13/01/2018,Active,No Salary,Inactive DR,Inactive Bill,No CC,66.15806452
+288442,INDIA,31,9/10/2020,Inactive,Salary with Other Bank,Inactive DR,Active Bill,Active CC,0
+210106,INDIA,43,27/03/2021,Active,Salary with Bank,Active DR,Active Bill,Active CC,461.0916129
+119074,INDIA,37,28/08/2021,No Spends,Salary with Bank,Inactive DR,No Bill,Inactive CC,9506.843226
+79880,PHILIPPINES,35,10/07/2017,No Spends,No Salary,No DR,Inactive Bill,No CC,102.3267742
+1013,PAKISTAN,58,5/05/2017,Active,Salary with Other Bank,No DR,Active Bill,No CC,651.7541935
+190251,INDIA,64,23/01/2020,No Spends,No Salary,No DR,No Bill,No CC,2253.158065
+345380,BANGLADESH,28,7/01/2021,Active,No Salary,No DR,Inactive Bill,No CC,0
+265431,PHILIPPINES,67,22/08/2019,No Spends,Salary with Bank,Active DR,Inactive Bill,Inactive CC,12205.73
+35777,INDIA,57,7/08/2021,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Active CC,0.45
+1224,PHILIPPINES,53,29/07/2019,Inactive,Salary with Other Bank,Active DR,No Bill,Inactive CC,1.26
+419389,INDIA,60,22/06/2020,Inactive,Salary with Bank,No DR,No Bill,Active CC,0
+18879,INDIA,67,9/08/2020,Active,No Salary,Inactive DR,No Bill,No CC,2057.599032
+472699,BANGLADESH,46,8/01/2022,Inactive,Salary with Bank,Active DR,No Bill,No CC,0
+398030,INDIA,32,9/02/2018,No Spends,No Salary,Inactive DR,Inactive Bill,Active CC,0
+441044,YEMEN,67,13/12/2018,Inactive,Salary with Bank,Inactive DR,Active Bill,No CC,0
+58070,ALGERIA,29,22/08/2019,No Spends,No Salary,Active DR,Inactive Bill,Active CC,0
+366496,PHILIPPINES,51,19/10/2020,Inactive,Salary with Other Bank,No DR,Inactive Bill,No CC,517.2977419
+313214,IRAQ,60,3/07/2018,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,0
+460325,INDIA,31,16/05/2018,No Spends,Salary with Other Bank,Active DR,No Bill,Active CC,0
+98862,IRAN,52,1/10/2021,Inactive,No Salary,No DR,Inactive Bill,No CC,230.3332258
+486881,BANGLADESH,28,17/11/2018,No Spends,Salary with Other Bank,No DR,Inactive Bill,Active CC,0
+74304,PHILIPPINES,72,30/12/2020,No Spends,Salary with Bank,Inactive DR,Active Bill,Active CC,2.1
+193219,INDIA,63,26/06/2019,Inactive,Salary with Bank,No DR,Active Bill,Active CC,2679.412581
+281907,INDIA,73,1/04/2017,Inactive,Salary with Bank,No DR,No Bill,No CC,143.6325806
+372486,INDIA,38,1/05/2018,No Spends,No Salary,No DR,Active Bill,Inactive CC,32.19677419
+56697,PAKISTAN,53,15/02/2019,Active,Salary with Bank,Inactive DR,Active Bill,No CC,0
+461289,PHILIPPINES,50,8/12/2020,No Spends,No Salary,Active DR,Inactive Bill,Active CC,4882.057419
+320304,PHILIPPINES,51,23/04/2021,Inactive,No Salary,Active DR,Inactive Bill,Inactive CC,11.98741935
+411210,PHILIPPINES,40,29/09/2017,Inactive,Salary with Bank,No DR,Inactive Bill,Active CC,170.7277419
+283933,KAZAKHSTAN,47,26/11/2018,Active,No Salary,Active DR,Active Bill,Inactive CC,149.0722581
+263827,PHILIPPINES,24,24/01/2018,Inactive,No Salary,Active DR,No Bill,No CC,0
+65171,INDIA,38,19/12/2020,Active,No Salary,Active DR,No Bill,Active CC,0
+9331,INDIA,33,30/03/2021,No Spends,Salary with Other Bank,Inactive DR,Active Bill,No CC,100.59
+165372,AUSTRALIA,49,1/03/2020,Active,Salary with Bank,Inactive DR,Active Bill,Inactive CC,15879.90581
+335006,INDIA,77,5/08/2018,Active,Salary with Bank,No DR,Inactive Bill,Active CC,0
+229152,SRI LANKA,21,30/08/2017,No Spends,Salary with Bank,Active DR,No Bill,Inactive CC,0
+314858,TANZANIA,47,6/09/2021,Active,Salary with Bank,Active DR,Active Bill,No CC,0.43
+628,ITALY,69,5/10/2017,Active,Salary with Bank,Active DR,Inactive Bill,No CC,260.3819355
+440707,INDIA,75,17/05/2018,No Spends,Salary with Other Bank,Active DR,Inactive Bill,Inactive CC,0.08
+8034,UNITED ARAB EMIRATES,26,31/03/2017,Active,Salary with Other Bank,Active DR,No Bill,No CC,60.50903226
+6523,INDIA,35,23/04/2019,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,4995.983548
+193577,UGANDA,59,1/01/2020,Active,No Salary,No DR,Active Bill,Inactive CC,0
+389895,INDIA,60,4/01/2020,Active,Salary with Other Bank,Active DR,Inactive Bill,No CC,224.4319355
+14754,INDIA,29,17/05/2019,Active,Salary with Bank,Inactive DR,No Bill,Inactive CC,117.1503226
+37396,PHILIPPINES,37,5/12/2021,Inactive,Salary with Other Bank,No DR,No Bill,Inactive CC,137.3641935
+254145,PAKISTAN,28,16/04/2018,Active,No Salary,Active DR,Inactive Bill,No CC,1976.54129
+74738,INDIA,77,17/06/2019,Inactive,No Salary,Inactive DR,No Bill,Inactive CC,0
+193606,PHILIPPINES,40,13/05/2017,Inactive,No Salary,Active DR,Inactive Bill,Inactive CC,15.75
+77239,PHILIPPINES,51,16/06/2020,Inactive,Salary with Other Bank,No DR,Inactive Bill,No CC,2764.670968
+324657,MOROCCO,35,30/07/2021,Inactive,No Salary,Active DR,No Bill,Inactive CC,0
+113485,UNITED ARAB EMIRATES,29,27/12/2019,No Spends,No Salary,Active DR,Inactive Bill,Active CC,340.0377419
+53165,IRAQ,62,30/04/2017,Active,No Salary,Active DR,Inactive Bill,No CC,39562.97452
+337459,PHILIPPINES,65,15/07/2019,No Spends,Salary with Other Bank,No DR,Inactive Bill,No CC,0
+359468,PAKISTAN,57,1/06/2019,Active,Salary with Other Bank,Inactive DR,No Bill,Active CC,0
+254448,PAKISTAN,25,14/02/2020,Inactive,Salary with Bank,Inactive DR,Inactive Bill,Active CC,3291.142903
+206365,UNITED KINGDOM,25,11/06/2020,No Spends,Salary with Other Bank,No DR,Active Bill,Active CC,0.96
+486087,INDIA,76,1/07/2019,No Spends,Salary with Other Bank,Active DR,No Bill,No CC,0
+381346,EGYPT,48,19/04/2018,No Spends,No Salary,No DR,Inactive Bill,No CC,121.55
+10005,INDIA,52,28/08/2021,Active,Salary with Bank,Active DR,No Bill,Active CC,8.125806452
+152429,ALBANIA,30,10/06/2021,No Spends,Salary with Bank,Inactive DR,Active Bill,Active CC,15.75
+280456,UNITED KINGDOM,38,5/07/2021,Inactive,No Salary,No DR,No Bill,No CC,129.7409677
+300131,SOMALIA,72,21/09/2020,Inactive,No Salary,Active DR,Active Bill,Inactive CC,1896.155484
+418961,UNITED ARAB EMIRATES,31,23/10/2017,Active,Salary with Other Bank,Active DR,Inactive Bill,Active CC,1525.864516
+15483,INDIA,63,18/04/2017,No Spends,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,0.5
+191732,AUSTRALIA,73,7/10/2021,Active,Salary with Bank,Active DR,Active Bill,Active CC,43082.92065
+490107,INDIA,29,23/12/2017,Inactive,Salary with Bank,No DR,Inactive Bill,Active CC,1174.131935
+179300,INDIA,75,15/07/2019,No Spends,Salary with Bank,No DR,No Bill,No CC,0
+225293,UNITED ARAB EMIRATES,63,21/09/2019,Inactive,No Salary,Active DR,Inactive Bill,Active CC,3863.436774
+81295,PAKISTAN,33,4/08/2021,Inactive,No Salary,Active DR,Inactive Bill,Active CC,0
+144714,NEPAL,25,15/02/2022,No Spends,Salary with Bank,No DR,No Bill,Inactive CC,350.3490323
+245024,THAILAND,28,19/10/2021,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Active CC,50097.22258
+63603,INDIA,42,4/01/2022,Active,Salary with Other Bank,No DR,Inactive Bill,No CC,0
+361232,PHILIPPINES,56,6/07/2017,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,0
+483657,INDIA,63,6/01/2022,Active,Salary with Bank,No DR,Active Bill,No CC,15.95451613
+139606,PAKISTAN,22,6/03/2022,No Spends,No Salary,Inactive DR,Inactive Bill,No CC,0
+215804,PHILIPPINES,74,26/02/2022,Active,No Salary,Active DR,No Bill,Active CC,0
+178768,INDIA,44,5/03/2019,No Spends,Salary with Bank,No DR,Active Bill,No CC,0
+42200,INDIA,70,9/10/2018,Inactive,Salary with Other Bank,Active DR,No Bill,No CC,0
+347553,PAKISTAN,59,21/11/2017,Inactive,No Salary,No DR,Active Bill,Inactive CC,0
+11116,INDIA,65,14/03/2019,Active,No Salary,Active DR,Inactive Bill,Inactive CC,1197.08129
+345733,PAKISTAN,50,8/11/2017,No Spends,No Salary,No DR,Inactive Bill,Active CC,0
+434919,UNITED ARAB EMIRATES,60,19/10/2019,No Spends,Salary with Other Bank,No DR,Active Bill,No CC,35.08741935
+498631,UGANDA,69,3/07/2018,Active,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,0
+97241,INDIA,65,17/07/2018,No Spends,No Salary,Active DR,Inactive Bill,Inactive CC,1253.994516
+240840,INDIA,38,10/10/2020,Active,No Salary,Active DR,Active Bill,Inactive CC,0
+31392,INDIA,37,16/02/2022,No Spends,No Salary,No DR,Active Bill,Active CC,5243.536452
+444996,EGYPT,37,12/05/2017,No Spends,Salary with Bank,Active DR,Inactive Bill,No CC,2946.01129
+310045,INDIA,32,25/02/2019,Inactive,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+162697,PAKISTAN,74,9/08/2020,Active,No Salary,Inactive DR,Active Bill,Inactive CC,0
+132664,INDIA,51,12/12/2017,Active,Salary with Other Bank,Active DR,Active Bill,Active CC,5159.788065
+170205,PHILIPPINES,71,10/12/2017,Inactive,Salary with Other Bank,Active DR,Active Bill,Inactive CC,6335.081935
+318443,PAKISTAN,39,23/06/2021,Inactive,No Salary,Active DR,Active Bill,Active CC,0
+170808,INDIA,61,3/03/2020,Active,Salary with Bank,Inactive DR,No Bill,No CC,0
+16870,INDIA,59,26/12/2017,Active,Salary with Bank,Inactive DR,No Bill,No CC,3030.676774
+310611,PHILIPPINES,23,8/07/2018,Active,Salary with Bank,Active DR,Active Bill,Inactive CC,0
+496663,INDIA,50,26/04/2020,Active,Salary with Other Bank,Inactive DR,Inactive Bill,Active CC,253.9506452
+329321,CHINA,43,5/06/2018,Inactive,Salary with Other Bank,No DR,No Bill,Active CC,0
+742,UNITED ARAB EMIRATES,48,29/07/2019,Inactive,Salary with Other Bank,Active DR,No Bill,Inactive CC,381.1351613
+105815,NEPAL,63,21/01/2022,No Spends,Salary with Other Bank,Inactive DR,No Bill,No CC,8.540322581
+5418,PALESTINE,76,21/06/2018,Active,No Salary,No DR,Active Bill,No CC,42.49677419
+491870,INDIA,76,22/09/2017,Inactive,Salary with Other Bank,Inactive DR,Active Bill,Inactive CC,13885.93
+120932,INDIA,45,8/01/2022,Inactive,Salary with Bank,Inactive DR,Inactive Bill,No CC,221.0003226
+81445,INDIA,22,18/07/2020,Active,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,5117.623226
+268021,LEBANON,63,13/07/2018,No Spends,Salary with Bank,Inactive DR,Inactive Bill,No CC,1061.219677
+414088,INDIA,67,26/08/2020,Inactive,Salary with Other Bank,Active DR,No Bill,Inactive CC,39552.33
+232036,INDIA,77,25/01/2018,No Spends,No Salary,No DR,No Bill,Active CC,34.48741935
+378853,INDIA,22,3/09/2017,No Spends,No Salary,Active DR,Inactive Bill,Inactive CC,27.88096774
+50892,KENYA,66,13/03/2022,No Spends,Salary with Bank,Inactive DR,Inactive Bill,Inactive CC,2057.085806
+224735,ETHOPIA,56,17/04/2020,No Spends,No Salary,Inactive DR,Inactive Bill,Inactive CC,15.75
+214529,PHILIPPINES,43,28/05/2018,Active,Salary with Bank,Inactive DR,Inactive Bill,Active CC,0
+279144,SAUDI ARABIA,22,22/07/2018,No Spends,Salary with Bank,Inactive DR,No Bill,Active CC,0
+334395,SRI LANKA,63,14/03/2021,Active,Salary with Bank,No DR,Inactive Bill,No CC,-9.47
+302834,INDIA,74,5/12/2019,Active,Salary with Bank,Inactive DR,No Bill,Inactive CC,0
+119465,INDIA,52,17/04/2020,Inactive,No Salary,Inactive DR,Inactive Bill,Active CC,28283.03677
+254024,PHILIPPINES,23,20/04/2017,Inactive,No Salary,Active DR,Inactive Bill,No CC,0
+346729,CANADA,31,23/01/2018,Active,Salary with Bank,No DR,Active Bill,No CC,5181.672581
+457768,SAUDI ARABIA,28,30/01/2019,Inactive,No Salary,Inactive DR,No Bill,Active CC,605.803871
+340427,PHILIPPINES,38,21/10/2019,Active,No Salary,No DR,Inactive Bill,No CC,0
+312809,INDIA,74,13/11/2018,Active,Salary with Other Bank,Inactive DR,No Bill,Inactive CC,258.9180645
+173601,INDIA,58,8/01/2022,Active,Salary with Bank,Active DR,Active Bill,No CC,89.93322581
+307794,PHILIPPINES,56,8/08/2017,No Spends,Salary with Other Bank,Inactive DR,Active Bill,Active CC,1792.811935
+351467,AFGHANISTAN,62,4/09/2019,No Spends,Salary with Bank,No DR,Active Bill,Active CC,1791.799032
+59858,PAKISTAN,55,25/06/2021,Active,No Salary,Inactive DR,No Bill,Active CC,0
+300677,PAKISTAN,36,30/03/2019,No Spends,Salary with Bank,No DR,Active Bill,Active CC,1.63
+399574,INDIA,55,5/08/2019,Inactive,No Salary,No DR,No Bill,Inactive CC,4094.34
+54531,INDIA,32,11/05/2018,Inactive,Salary with Bank,No DR,Inactive Bill,No CC,2366.579355
+233014,COMOROS,47,18/09/2021,Active,No Salary,Active DR,No Bill,Inactive CC,136.2270968
+64042,INDIA,38,14/04/2020,Inactive,No Salary,Inactive DR,No Bill,No CC,0.03
+313597,PHILIPPINES,23,4/06/2021,Inactive,Salary with Bank,No DR,Active Bill,Inactive CC,5388.83871
+335196,PHILIPPINES,41,16/05/2021,Active,Salary with Other Bank,Inactive DR,No Bill,No CC,0
+431621,INDIA,35,5/11/2017,No Spends,Salary with Bank,Active DR,Inactive Bill,No CC,455.0709677
+21055,PAKISTAN,30,30/09/2021,Inactive,No Salary,Inactive DR,No Bill,No CC,85.35
+486917,PHILIPPINES,37,31/01/2017,Active,Salary with Bank,Active DR,No Bill,Active CC,180.7225806
+62970,NEPAL,61,27/08/2021,Active,No Salary,Active DR,Active Bill,Active CC,4111.822903
+74907,PHILIPPINES,75,3/08/2019,Active,Salary with Bank,Inactive DR,Active Bill,No CC,144.8035484
+446634,INDIA,61,26/08/2018,Inactive,Salary with Bank,No DR,Active Bill,Active CC,287.956129
+88415,INDIA,22,16/06/2018,Inactive,No Salary,Active DR,Active Bill,Inactive CC,0
+221344,EGYPT,69,2/04/2019,Inactive,No Salary,No DR,No Bill,Inactive CC,0
+256242,SYRIA,29,8/03/2020,Inactive,Salary with Other Bank,No DR,Inactive Bill,Inactive CC,2074.453548
+406980,INDIA,39,24/06/2021,Inactive,Salary with Other Bank,Inactive DR,Inactive Bill,Inactive CC,77.21580645
+156127,INDIA,36,25/09/2018,No Spends,Salary with Other Bank,Active DR,Active Bill,Active CC,3301.399032
+439404,INDIA,36,21/06/2021,No Spends,Salary with Other Bank,Active DR,Active Bill,No CC,3407.424839
+345510,KENYA,42,18/02/2020,Inactive,Salary with Bank,Active DR,Inactive Bill,No CC,373.7435484
+482860,UGANDA,44,4/04/2020,No Spends,No Salary,No DR,Active Bill,Inactive CC,0
+42393,PHILIPPINES,52,6/04/2017,Active,Salary with Other Bank,Active DR,Inactive Bill,No CC,0
+240902,INDIA,28,30/01/2018,Active,Salary with Other Bank,No DR,No Bill,No CC,0
+279520,INDIA,23,23/11/2017,Inactive,Salary with Bank,Active DR,No Bill,Active CC,1578.894839
+17566,UNITED ARAB EMIRATES,74,17/04/2017,Active,No Salary,No DR,Active Bill,Active CC,16.65
+251425,CAMEROON,29,1/04/2018,Inactive,Salary with Other Bank,Active DR,Inactive Bill,Active CC,2.138064516
+201529,INDIA,77,19/09/2018,No Spends,No Salary,Active DR,Inactive Bill,No CC,6975.156452
+179010,INDIA,50,10/09/2018,Active,Salary with Bank,Inactive DR,No Bill,Inactive CC,4301.429355
+66965,INDIA,57,2/01/2020,Active,Salary with Other Bank,Active DR,No Bill,Active CC,205.3377419
+152560,INDIA,22,8/02/2018,Active,Salary with Other Bank,No DR,Active Bill,No CC,0
+268132,INDIA,44,15/06/2019,Inactive,Salary with Other Bank,No DR,Inactive Bill,Active CC,11.64903226
+79628,INDIA,68,8/11/2020,Inactive,No Salary,Active DR,Active Bill,No CC,0
+240676,PHILIPPINES,35,1/12/2017,Inactive,No Salary,Inactive DR,No Bill,No CC,0
